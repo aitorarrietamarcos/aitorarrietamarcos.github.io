@@ -26,10 +26,10 @@ My papers can be found on [Google Scholar](https://scholar.google.lu/citations?u
 
 I currently supervise six students:
 
-*Jon Ayerdi (PhD student), since 2020
-*Pablo Valle (Research Assistant), since 2019
-*Jorge da Silva (Research Assitant), since 2021
-*Eñaut Mendiluze (Bachelor degree project), since 2020, in Simula Research Laboratory
-*Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
-*Ander Zubizarreta (Bachelor degree project)
+* Jon Ayerdi (PhD student), since 2020
+* Pablo Valle (Research Assistant), since 2019
+* Jorge da Silva (Research Assitant), since 2021
+* Eñaut Mendiluze (Bachelor degree project), since 2020, in Simula Research Laboratory
+* Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
+* Ander Zubizarreta (Bachelor degree project)
 
