@@ -41,6 +41,36 @@ I currently supervise six students:
 * Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
 * Ander Zubizarreta (Bachelor degree project), since 2021
 
+## Projects
+
+### European Projects
+
+I am currently involved in the [Adeptness project](https://www.adeptness.eu/)
+
+### Industrial Projects
+
+I currently collaborate in private-funding projects with the following companies:
+* [Orona](https://www.orona.co.uk/en-gb)
+* [Developair](https://www.developair.tech/es/)
+* [Mathworks](https://mathworks.com/)
+
+
+### Past Projects
+
+Previously, I worked in different research projects, including:
+* HIFI-ELEMENTS - H2020 Project
+* TESTOMAT - ITEA 3 Project
+* SCRATCH - ITEA 3 Project
+* TESEO - Basque Government funded project
+* DIGITAL - Basque Government funded project
+* PING - Regional project
+
+I have also worked with other industrial private-funding projects with the following companies:
+* Ulma Handling Systems
+* Ulma Embedded Solutions
+
+
+
 ## Journal reviewing
 
 I have reviewed in different journals, including:
