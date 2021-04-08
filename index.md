@@ -1,1 +1,35 @@
-prueba
+# About Me
+
+I am a lecturer and researcher at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these techniques in the context of Cyber-Physical Systems. In the last years, my research has centered on the test oracle problem for this context.
+
+My research is industry-oriented. I collaborate with different industrial companies to better understand which they real problems are.
+
+I am currently involved in the coordination of the coordination of the [Adeptness project](https://www.adeptness.eu/)&mdash;, although I am actively involved in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
+
+
+
+
+
+## Papers
+
+My papers can be found on [Google Scholar](https://scholar.google.lu/citations?user=ft06jF4AAAAJ&hl=es&oi=ao) and in [DBLP](https://dblp.org/pid/78/8234.html). Here is the list of some of them:
+
+
+## Lecturing
+
+* Since 2018 to now, I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
+* I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
+* At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 
+* I also taughted other subjects (e.g., Basic Programming) at different engineering degrees (Computer Science, Mechanical Engineering, etc.)
+
+## Students Supervision
+
+I currently supervise six students:
+
+*Jon Ayerdi (PhD student), since 2020
+*Pablo Valle (Research Assistant), since 2019
+*Jorge da Silva (Research Assitant), since 2021
+*Eñaut Mendiluze (Bachelor degree project), since 2020, in Simula Research Laboratory
+*Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
+*Ander Zubizarreta (Bachelor degree project)
+
