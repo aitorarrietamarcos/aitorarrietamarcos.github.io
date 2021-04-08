@@ -39,5 +39,21 @@ I currently supervise six students:
 * Jorge da Silva (Research Assitant), since 2021
 * Eñaut Mendiluze (Bachelor degree project), since 2020, in Simula Research Laboratory
 * Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
-* Ander Zubizarreta (Bachelor degree project)
+* Ander Zubizarreta (Bachelor degree project), since 2021
+
+## Journal reviewing
+
+I have reviewed in different journals, including:
+
+* IEEE Transactions on Software Engineering
+* Empirical Software Engineering
+* Information and Software Technology
+* Journal of Systems and Software
+* IEEE Transactions on Industrial Informatics
+* Journal of Software Testing, Verification and Reliability
+* Software and Systems Modeling
+* Journal of Object Technology
+
+
+
 
