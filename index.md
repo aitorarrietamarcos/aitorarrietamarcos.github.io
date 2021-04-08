@@ -2,7 +2,7 @@
 
 I am a lecturer and researcher at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these techniques in the context of Cyber-Physical Systems. In the last years, my research has centered on the test oracle problem for this context.
 
-My research is industry-oriented. I collaborate with different industrial companies to better understand which they real problems are.
+My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are.
 
 I am currently involved in the coordination of the coordination of the [Adeptness project](https://www.adeptness.eu/), although I am actively involved in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
