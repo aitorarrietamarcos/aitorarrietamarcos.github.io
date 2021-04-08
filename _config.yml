@@ -6,6 +6,7 @@ plugins:
     - jekyll-redirect-from
 include:
     - README.md
+    {% include README.md %}
 optional_front_matter:
   remove_originals: true
 defaults:
