@@ -4,7 +4,7 @@ I am a lecturer and researcher at the University of Mondragon. My research inter
 
 My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are.
 
-I am currently involved in the coordination of the coordination of the [Adeptness project](https://www.adeptness.eu/), although I am actively involved in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
+I am currently involved in the coordination of the [Adeptness project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
 
 
