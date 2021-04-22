@@ -8,22 +8,6 @@ I am currently involved in the coordination of the [Adeptness project](https://w
 
 
 
-## News
-
-<html> 
-  <head> 
-    <script src="jquery.js"></script> 
-    <script> 
-    $(function(){
-      $("#includedContent").load("news.html"); 
-    });
-    </script> 
-  </head> 
-
-  <body> 
-     <div id="includedContent"></div>
-  </body> 
-</html>
 
 
 ## Papers
