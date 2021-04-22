@@ -4,6 +4,6 @@ My student Pablo Valle was recently interviewd by the Kitto newspaper. In his fi
 
 Personally, I believe this is the first of many papers that Pablo will get accepted in his career!
 
-![pabloInterv](kittoPablo.pdf)
+![pabloInterv](kittoPablo.jpg)
 
 
