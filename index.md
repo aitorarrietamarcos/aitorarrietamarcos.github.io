@@ -8,12 +8,42 @@ I am currently involved in the coordination of the [Adeptness project](https://w
 
 
 
+## News
+
+
+<html>
+    <head>
+        <style>
+            h1 {
+                color:Blue;
+            }
+            div.scroll {
+                margin:4px, 4px;
+                padding:4px;
+                background-color: white;
+                width: 500px;
+                height: 110px;
+                overflow-x: hidden;
+                overflow-y: auto;
+                text-align:justify;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+        <h1>Some recent news:</h1>
+        <div class="scroll">
+			* Paper accepted at AST on using machine-learning for the generation of test oracles!
+			* Paper accepted at ICSA on a new microservices-based architecture for continuous deployment, monitoring and validation of Cyber-Physical Systems!
+        </div>
+        </center>
+    </body>
+</html>  
 
 
 ## Papers
 
 [Check my recent papers!](papers.html)
-
 
 
 
