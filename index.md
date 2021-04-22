@@ -7,6 +7,11 @@ My research is industry-oriented. I collaborate with different industrial compan
 I am currently involved in the coordination of the [Adeptness project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
 
+## Blog and News 
+
+* My student Pablo Valle got interviewed by the Kitto newspaper (in Basque) for his recently published ICSE Student Research Competition paper. Check it [here](/blog/pabloInterview.html)!
+
+![image tooltip here](/assets/AitorArrieta.jpg)
 
 
 
@@ -78,7 +83,5 @@ I have reviewed in different journals, including:
 * Journal of Object Technology
 
 
-## Test 
 
-![image tooltip here](/assets/AitorArrieta.jpg)
 
