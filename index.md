@@ -11,7 +11,6 @@ I am currently involved in the coordination of the [Adeptness project](https://w
 
 * My student Pablo Valle got interviewed by the Kitto newspaper (in Basque) for his recently published ICSE Student Research Competition paper. Check it [here](/blog/pabloInterview.html)!
 
-![image tooltip here](/assets/AitorArrieta.jpg)
 
 
 
