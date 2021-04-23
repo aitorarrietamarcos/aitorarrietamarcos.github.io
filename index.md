@@ -11,7 +11,7 @@ I am currently involved in the coordination of the [Adeptness project](https://w
 
 * My student Pablo Valle got interviewed by the Kitto newspaper (in Basque) for his recently published ICSE Student Research Competition paper. Check it [here](/blog/pabloInterview.html)!
 
-* Our paper "Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms" got accepted at [AST 2021](https://conf.researchr.org/home/ast-2021#About)conference!
+* Our paper "Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms" got accepted at [AST 2021](https://conf.researchr.org/home/ast-2021#About) conference!
 
 
 ## Papers
