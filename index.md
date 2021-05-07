@@ -6,37 +6,6 @@ My research is industry-oriented. I collaborate with different industrial compan
 
 I am currently involved in the coordination of the [Adeptness project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
-
-## Blog and News 
-
-* My student Pablo Valle got interviewed by the Kitto newspaper (in Basque) for his recently published ICSE Student Research Competition paper. Check it [here](/blog/pabloInterview.html)!
-* Our paper "Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms" got accepted at [AST 2021](https://conf.researchr.org/home/ast-2021#About) conference!
-
-
-## Papers
-
-[Check my recent papers!](papers.html)
-
-
-
-## Lecturing
-
-* Since 2018 to now, I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
-* I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
-* At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 
-* I also taughted other subjects (e.g., Basic Programming) at different engineering degrees (Computer Science, Mechanical Engineering, etc.)
-
-## Students Supervision
-
-I currently supervise six students:
-
-* Jon Ayerdi (PhD student), since 2020
-* Pablo Valle (Research Assistant), since 2019
-* Jorge da Silva (Research Assitant), since 2021
-* Eñaut Mendiluze (Bachelor degree project), since 2020, in Simula Research Laboratory
-* Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
-* Ander Zubizarreta (Bachelor degree project), since 2021
-
 ## Projects
 
 ### European Projects
@@ -64,6 +33,41 @@ Previously, I worked in different research projects, including:
 I have also worked with other industrial private-funding projects with the following companies:
 * Ulma Handling Systems
 * Ulma Embedded Solutions
+
+
+
+## Blog and News 
+
+* My student Pablo Valle got interviewed by the Kitto newspaper (in Basque) for his recently published ICSE Student Research Competition paper. Check it [here](/blog/pabloInterview.html)!
+* Our paper "Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms" got accepted at [AST 2021](https://conf.researchr.org/home/ast-2021#About) conference!
+
+## Oportunities
+
+Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportunities](opportunities.html)
+
+## Papers
+
+[Check my recent papers!](papers.html)
+
+
+
+## Lecturing
+
+* Since 2018 to now, I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
+* I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
+* At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 
+* I also taughted other subjects (e.g., Basic Programming) at different engineering degrees (Computer Science, Mechanical Engineering, etc.)
+
+## Students Supervision
+
+I currently supervise six students:
+
+* Jon Ayerdi (PhD student), since 2020
+* Pablo Valle (Research Assistant), since 2019
+* Jorge da Silva (Research Assitant), since 2021
+* Eñaut Mendiluze (Bachelor degree project), since 2020, in Simula Research Laboratory
+* Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
+* Ander Zubizarreta (Bachelor degree project), since 2021
 
 
 
