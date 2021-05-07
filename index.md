@@ -43,7 +43,7 @@ I have also worked with other industrial private-funding projects with the follo
 
 ## Oportunities
 
-Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportunities](opportunities.html)
+Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportunities](opportunities.html)!
 
 ## Papers
 

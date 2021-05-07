@@ -1,6 +1,6 @@
 ## Opportunities
 
-There are many opportunities we could explore, which of them suits best to you?
+There are many opportunities we could explore, which of them suits you best?
 
 ### You are looking for a PhD?
 
@@ -8,7 +8,7 @@ You have a master's or you are about to finish it... Research is your pasion... 
 
 ### Faculty/Postdoc position!
 
-You have finished or are about to finish your PhD...you are lookin for a postod or faculty position? We might have open positions! e-mail me!
+You have finished or are about to finish your PhD...you are looking for a postod or faculty position? We might have open positions! e-mail me!
 
 ### You have an innovative method, but you don't have a real case study...
 
