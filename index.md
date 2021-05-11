@@ -1,6 +1,6 @@
 # About Me
 
-I am a lecturer and researcher at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these techniques in the context of Cyber-Physical Systems. In the last years, my research has centered on the test oracle problem for this context.
+I am a lecturer and researcher at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these techniques in the context of Cyber-Physical Systems. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
 
 My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are.
 
