@@ -4,6 +4,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 
 ### 2021
 * Arrieta, A., Ayerdi, J., Illarramendi, I., Agirre, A., Sagardui, G. & Arratibe, M. "Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms", In 2021 2nd ACM/IEEE International Conference on Automation of Software Test (AST), 2021
+* Gartziandia, A., Ayerdi, J., Arrieta, A., Ali, S., Yue, T., Agirre, A., Sagardui, G. & Arratibel, M. "Microservices for Continuous Deployment, Monitoring and Validation in Cyber-Physical Systems: an Industrial Case Study for Elevators Systems" In 2021 IEEE 18th International Conference on Software Architecture Companion (ICSA-C) (pp. 46-53). IEEE.
 * Garciandia, A., Arrieta, A., Agirre, A., Sagardui, G. & Arratibe, M. "Using Regression Learners to Predict Performance Problems on Software Updates: a Case Study on Elevators Dispatching Algorithms" In 2021 ACM/SIGAPP Symposium on Applied Computing (SAC), 2021
 * Zafar, M. N., Afzal, W., Enoiu, E., Stratis, A., Arrieta, A., & Sagardui, G. "Model-Based Testing in Practice: An Industrial Case Study using GraphWalker" In 14th Innovations in Software Engineering Conference (formerly knownas India Software Engineering Conference), 2021 ACM.
 
