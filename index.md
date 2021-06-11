@@ -38,6 +38,7 @@ I have also worked with other industrial private-funding projects with the follo
 
 ## Blog and News 
 
+* I have been awarded with a [Leonardo fellowship](https://www.redleonardo.es/becas/becas-leonardo-investigadores-creadores-culturales-2021/) to carry out the DRAGON project, which will investigate on methods to debug and repair cyber-physical systems! Read the [news](https://www.redleonardo.es/noticias/adjudicadas-58-becas-leonardo-a-investigadores-y-creadores-culturales-en-9-areas-de-la-ciencia-y-la-cultura/#tecnologias-informacion-comunicacion)
 * My student Pablo Valle got interviewed by the Kitto newspaper (in Basque) for his recently published ICSE Student Research Competition paper. Check it [here](/blog/pabloInterview.html)!
 * Our paper "Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms" got accepted at [AST 2021](https://conf.researchr.org/home/ast-2021#About) conference!
 
