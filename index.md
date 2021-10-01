@@ -54,21 +54,24 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 ## Lecturing
 
-* Since 2018 to now, I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
+* Since 2021-2022 course, I teach "Software Engineering", at bachelor degree level.
 * I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
+* Since 2018 to 2020, I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
 * At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 
 * I also taughted other subjects (e.g., Basic Programming) at different engineering degrees (Computer Science, Mechanical Engineering, etc.)
 
-## Students Supervision
+## Students and Postdoc Supervision
 
-I currently supervise six students:
-
+Current supervision:
 * Jon Ayerdi (PhD student), since 2020
 * Pablo Valle (Research Assistant), since 2019
-* Jorge da Silva (Research Assitant), since 2021
-* Eñaut Mendiluze (Bachelor degree project), since 2020, in Simula Research Laboratory
-* Joritz Galarraga (Bachelor degree project), since 2020, in Simula Research Laboratory
-* Ander Zubizarreta (Bachelor degree project), since 2021
+* Eñaut Mendiluze (Research Assistant), since 2021
+
+Previous students:
+* Jorge da Silva (Research Assitant), 2021
+* Eñaut Mendiluze (Bachelor degree project), 2020-2021, in Simula Research Laboratory
+* Joritz Galarraga (Bachelor degree project), 2020-2021, in Simula Research Laboratory
+* Ander Zubizarreta (Bachelor degree project), 2021
 
 
 

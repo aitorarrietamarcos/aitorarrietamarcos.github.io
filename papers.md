@@ -10,6 +10,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 * Gartziandia, A., Ayerdi, J., Arrieta, A., Ali, S., Yue, T., Agirre, A., Sagardui, G. & Arratibel, M. "Microservices for Continuous Deployment, Monitoring and Validation in Cyber-Physical Systems: an Industrial Case Study for Elevators Systems" In 2021 IEEE 18th International Conference on Software Architecture Companion (ICSA-C) (pp. 46-53). IEEE.
 * Garciandia, A., Arrieta, A., Agirre, A., Sagardui, G. & Arratibe, M. "Using Regression Learners to Predict Performance Problems on Software Updates: a Case Study on Elevators Dispatching Algorithms" In 2021 ACM/SIGAPP Symposium on Applied Computing (SAC), 2021
 * Zafar, M. N., Afzal, W., Enoiu, E., Stratis, A., Arrieta, A., & Sagardui, G. "Model-Based Testing in Practice: An Industrial Case Study using GraphWalker" In 14th Innovations in Software Engineering Conference (formerly knownas India Software Engineering Conference), 2021 ACM.
+* Arrieta, A., Bellido, G., Da Silva, J., Markiegi, U., & Gago, J. (2021). De la simulación a la realidad: metodología para el aprendizaje de sistemas ciber-físicos. Actas de las Jenui, 6, 283-286.
 
 ### 2020
 * Arrieta, A., Agirre, J. A., & Sagardui, G. "Seeding strategies for multi-objective test case selection: an application on simulation-based testing" In Proceedings of the 2020 Genetic and Evolutionary Computation Conference (pp. 1222-1231).[BEST SBSE PAPER and NOMINEE TO CONFERENCE BEST PAPER AWARD]
