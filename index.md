@@ -63,9 +63,10 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 ## Students and Postdoc Supervision
 
 Current supervision:
+* Ernest Pobee (Postdoctoral fellow), since 2021
 * Jon Ayerdi (PhD student), since 2020
+* Eñaut Mendiluze (Master Student), since 2021
 * Pablo Valle (Research Assistant), since 2019
-* Eñaut Mendiluze (Research Assistant), since 2021
 
 Previous students:
 * Jorge da Silva (Research Assitant), 2021
