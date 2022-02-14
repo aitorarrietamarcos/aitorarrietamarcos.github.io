@@ -2,6 +2,9 @@
 
 You can also find my papers on [Google Scholar](https://scholar.google.lu/citations?user=ft06jF4AAAAJ&hl=es&oi=ao) and in [DBLP](https://dblp.org/pid/78/8234.html). Here is the list of some of them:
 
+### 2022
+* Valle, P., Arrieta, A. "Towards the Isolation of Failure-Inducing Inputs in Cyber-Physical Systems: is Delta Debugging Enough?". In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022 (Accepted for publication)
+
 ### 2021
 * Markiegi, U., Arrieta, A., Etxeberria, L., & Sagardui, G. "Dynamic test prioritization of product lines: An application on configurable simulation models". In Software Quality Journal (2021), (accepted for publication)
 * Ayerdi, J., Terragni, V., Arrieta, A., Tonella, P., Sagardui, G., Arratibel, M. "Generating metamorphic relations for cyber-physical systems with genetic programming: an industrial case study", In Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (pp. 1264-1274)
