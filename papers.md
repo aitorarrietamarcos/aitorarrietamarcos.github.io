@@ -3,10 +3,17 @@
 You can also find my papers on [Google Scholar](https://scholar.google.lu/citations?user=ft06jF4AAAAJ&hl=es&oi=ao) and in [DBLP](https://dblp.org/pid/78/8234.html). Here is the list of some of them:
 
 ### 2022
+* Arrieta, A., Valle, P., Agirre, J.A., & Sagardui, G. "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
+* Garciandia, A., Arrieta, A., Ayerdi, A., Illarramendi, M., Agirre, A., Sagardui, G. & Arratibe, M. "UMachine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms" In Journal of Software: Evolution and Process, 2022, (Accepted for publication)
+* Arrieta, A., "On the Cost-Effectiveness of Composite Metamorphic Relations for Testing Deep Lerning Systems", at Metamorphic Testing Workshop (MET2022), 2022, (Accepted for publication)
+* Arrieta, A., "Is the Revisited Hypervolume an Appropriate Quality Indicator to Evaluate Multi-Objective Test Case Selection Algorithms?", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (Accepted for publication)
+* Arrieta, A., "Multi-Objective Metamorphic Follow-up Test Case Selection for Deep Learning Systems", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (Accepted for publication)
+* Arrieta, A., Otaegi, M., Han, L., Sagardui, G., Ali, S., Arratibel, M. "Automating Test Oracle Generation in DevOps for Industrial Elevators". In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022 (Accepted for publication)
 * Valle, P., Arrieta, A. "Towards the Isolation of Failure-Inducing Inputs in Cyber-Physical Systems: is Delta Debugging Enough?". In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022 (Accepted for publication)
 
 ### 2021
-* Markiegi, U., Arrieta, A., Etxeberria, L., & Sagardui, G. "Dynamic test prioritization of product lines: An application on configurable simulation models". In Software Quality Journal (2021), (accepted for publication)
+* Markiegi, U., Arrieta, A., Etxeberria, L., & Sagardui, G. "Dynamic test prioritization of product lines: An application on configurable simulation models". In Software Quality Journal (2021), 29(4), 943-988.
+* Galarraga, J. Arrieta, A., Ali, S., Sagardui, G., Arratibel, M. "Genetic Algorithm-based Testing of Industrial Elevators under Passenger Uncertainty", In 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW) (pp. 353-358). IEEE.
 * Ayerdi, J., Terragni, V., Arrieta, A., Tonella, P., Sagardui, G., Arratibel, M. "Generating metamorphic relations for cyber-physical systems with genetic programming: an industrial case study", In Proceedings of the 29th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (pp. 1264-1274)
 * Michelton, G.K., Sotto-Mayor, B., Martinez, J., Arrieta, A., Abreu, R., Assuncao, W.K.G., “Spectrum-Based Feature Localization: A Case Study using ArgoUML”, In 2021 Software Product Line Conference (SPLC) – Challenge track
 * Arrieta, A., Ayerdi, J., Illarramendi, I., Agirre, A., Sagardui, G. & Arratibe, M. "Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms", In 2021 2nd ACM/IEEE International Conference on Automation of Software Test (AST), 2021

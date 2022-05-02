@@ -39,10 +39,10 @@ I have also worked with other industrial private-funding projects with the follo
 ## Blog and News 
 
 
+* Two journal papers accepted recently! First one, at TOSEM, titled as "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". Second one, in JSEP, titled as "Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms". Congrats to all the co-authors!
 * I have joined the [ISSRE 2022](https://issre2022.github.io/) research track! Have a look at the new website and consider submitting!
 * I have joined the ASE 2022 [NIER track](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track)! Consider submitting a paper! 
 * I have been awarded with a [Leonardo fellowship](https://www.redleonardo.es/becas/becas-leonardo-investigadores-creadores-culturales-2021/) to carry out the DRAGON project, which will investigate on methods to debug and repair cyber-physical systems! Read the [news](https://www.redleonardo.es/noticias/adjudicadas-58-becas-leonardo-a-investigadores-y-creadores-culturales-en-9-areas-de-la-ciencia-y-la-cultura/#tecnologias-informacion-comunicacion)
-* My student Pablo Valle got interviewed by the Kitto newspaper (in Basque) for his recently published ICSE Student Research Competition paper. Check it [here](/blog/pabloInterview.html)!
 
 
 ## Oportunities
