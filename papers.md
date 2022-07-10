@@ -3,11 +3,12 @@
 You can also find my papers on [Google Scholar](https://scholar.google.lu/citations?user=ft06jF4AAAAJ&hl=es&oi=ao) and in [DBLP](https://dblp.org/pid/78/8234.html). Here is the list of some of them:
 
 ### 2022
+* Ayerdi, J., Valle, P., Segura, S., Arrieta, A., Sagardui, G. & Arratibel, M. "Performance-Driven Metamorphic Testing of Cyber-Physical Systems". In IEEE Transactions on Reliability, 2022, (Accepted for publication)
 * Arrieta, A., Valle, P., Agirre, J.A., & Sagardui, G. "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
 * Garciandia, A., Arrieta, A., Ayerdi, A., Illarramendi, M., Agirre, A., Sagardui, G. & Arratibe, M. "Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms" In Journal of Software: Evolution and Process, 2022, (Accepted for publication)
 * Arrieta, A., "On the Cost-Effectiveness of Composite Metamorphic Relations for Testing Deep Lerning Systems", at Metamorphic Testing Workshop (MET2022), 2022, (Accepted for publication)
-* Arrieta, A., "Is the Revisited Hypervolume an Appropriate Quality Indicator to Evaluate Multi-Objective Test Case Selection Algorithms?", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (Accepted for publication)
-* Arrieta, A., "Multi-Objective Metamorphic Follow-up Test Case Selection for Deep Learning Systems", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (Accepted for publication)
+* Arrieta, A., "Is the Revisited Hypervolume an Appropriate Quality Indicator to Evaluate Multi-Objective Test Case Selection Algorithms?", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (pp. 1317–1326)
+* Arrieta, A., "Multi-Objective Metamorphic Follow-up Test Case Selection for Deep Learning Systems", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (1327–1335)
 * Arrieta, A., Otaegi, M., Han, L., Sagardui, G., Ali, S., Arratibel, M. "Automating Test Oracle Generation in DevOps for Industrial Elevators". In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022 (Accepted for publication)
 * Valle, P., Arrieta, A. "Towards the Isolation of Failure-Inducing Inputs in Cyber-Physical Systems: is Delta Debugging Enough?". In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022 (Accepted for publication)
 
