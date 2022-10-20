@@ -36,8 +36,7 @@ I have also worked with other industrial private-funding projects with the follo
 
 
 
-## Blog and News 
-
+## News 
 
 * Two journal papers accepted recently! First one, at TOSEM, titled as "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". Second one, in JSEP, titled as "Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms". Congrats to all the co-authors!
 * I have joined the [ISSRE 2022](https://issre2022.github.io/) research track! Have a look at the new website and consider submitting!
@@ -53,35 +52,26 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 [Check my recent papers!](papers.html)
 
+## Awards
+
+* 2020 -- GECCO Best paper at the Search-Based Software Engineering (SBSE) Track. Nominee to best paper awarded
+* 2019 -- Best PhD dissertation presented in 2017 in Software Engineering, awarded by the [SISTEDES](https://www.sistedes.es/) society.
+* 2019 -- Early-stage researcher for his research in the field of software development and testing of industrial applications, awarded by [SCIE](https://www.scie.es) and [Fundación BBVA](https://www.fbbva.es/).
+
+## Service
+
+### Conference
+
+I have served at different conferences, with different roles, including:
+
+* Track Chair at the 2022ns [QUATIC conference](https://2022.quatic.org/thematic-tracks/Cyber-physical-Systems). Track "Quality Aspects in Digital Twins and Cyber-physical Systems"
+* PC Member, [ISSRE 2022](https://issre2022.github.io/) research track.
+* PC Member, ASE 2022 [NIER track](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track)
 
 
-## Lecturing
+### Journals
 
-* Since 2021-2022 course, I teach "Software Engineering", at bachelor degree level.
-* I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
-* Since 2018 to 2020, I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
-* At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 
-* I also taughted other subjects (e.g., Basic Programming) at different engineering degrees (Computer Science, Mechanical Engineering, etc.)
-
-## Students and Postdoc Supervision
-
-Current supervision:
-* Ernest Pobee (Postdoctoral fellow), since 2021
-* Jon Ayerdi (PhD student), since 2020
-* Eñaut Mendiluze (Master Student), since 2021
-* Pablo Valle (Research Assistant), since 2019
-
-Previous students:
-* Jorge da Silva (Research Assitant), 2021
-* Eñaut Mendiluze (Bachelor degree project), 2020-2021, in Simula Research Laboratory
-* Joritz Galarraga (Bachelor degree project), 2020-2021, in Simula Research Laboratory
-* Ander Zubizarreta (Bachelor degree project), 2021
-
-
-
-## Journal reviewing
-
-I have reviewed in different journals, including:
+I have reviewed for different journals, including:
 
 * IEEE Transactions on Software Engineering
 * Empirical Software Engineering
@@ -91,6 +81,33 @@ I have reviewed in different journals, including:
 * Journal of Software Testing, Verification and Reliability
 * Software and Systems Modeling
 * Journal of Object Technology
+
+
+## Lecturing
+
+* Since 2021-2022 course, I teach "Software Engineering", at bachelor degree level.
+* I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
+* Since 2018 to 2020, and from 2022 on I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
+* At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 
+* I also taughted other subjects (e.g., Basic Programming) at different engineering degrees (Computer Science, Mechanical Engineering, etc.)
+
+## Students and Postdoc Supervision
+
+Current supervision:
+* Jon Ayerdi (PhD student), since 2020
+* Eñaut Mendiluze (Master Student), since 2021. Now together with Rui Abreu.
+* Pablo Valle (Master Student), since 2022
+
+Previous students and post-doc supervision:
+* Ernest Pobee (Postdoctoral fellow), 2021-2022
+* Pablo Valle (Research Assistant), 2019-2022
+* Jorge da Silva (Research Assitant), 2021
+* Eñaut Mendiluze (Bachelor degree project), 2020-2021, in Simula Research Laboratory
+* Joritz Galarraga (Bachelor degree project), 2020-2021, in Simula Research Laboratory
+* Ander Zubizarreta (Bachelor degree project), 2021
+
+
+
 
 
 

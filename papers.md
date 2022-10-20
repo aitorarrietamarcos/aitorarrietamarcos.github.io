@@ -12,8 +12,8 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 * Arrieta, A., "On the Cost-Effectiveness of Composite Metamorphic Relations for Testing Deep Lerning Systems", at Metamorphic Testing Workshop (MET2022), 2022, (Accepted for publication)
 * Arrieta, A., "Is the Revisited Hypervolume an Appropriate Quality Indicator to Evaluate Multi-Objective Test Case Selection Algorithms?", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (pp. 1317–1326)
 * Arrieta, A., "Multi-Objective Metamorphic Follow-up Test Case Selection for Deep Learning Systems", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (1327–1335)
-* Arrieta, A., Otaegi, M., Han, L., Sagardui, G., Ali, S., Arratibel, M. "Automating Test Oracle Generation in DevOps for Industrial Elevators". In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022 (Accepted for publication)
-* Valle, P., Arrieta, A. "Towards the Isolation of Failure-Inducing Inputs in Cyber-Physical Systems: is Delta Debugging Enough?". In the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2022 (Accepted for publication)
+* Arrieta, A., Otaegi, M., Han, L., Sagardui, G., Ali, S., Arratibel, M. "Automating Test Oracle Generation in DevOps for Industrial Elevators". In 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 284-288). IEEE.
+* Valle, P., Arrieta, A. "Towards the Isolation of Failure-Inducing Inputs in Cyber-Physical Systems: is Delta Debugging Enough?". In 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 549-553). IEEE.
 
 ### 2021
 * Markiegi, U., Arrieta, A., Etxeberria, L., & Sagardui, G. "Dynamic test prioritization of product lines: An application on configurable simulation models". In Software Quality Journal (2021), 29(4), 943-988.
