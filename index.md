@@ -38,6 +38,7 @@ I have also worked with other industrial private-funding projects with the follo
 
 ## News 
 
+* New journal paper at IEEE Transactions on Reliability, titled as "Performance-Driven Metamorphic Testing of Cyber-Physical Systems". Kudos to Jon Ayerdi for his last journal paper of his PhD! 
 * Two journal papers accepted recently! First one, at TOSEM, titled as "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". Second one, in JSEP, titled as "Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms". Congrats to all the co-authors!
 * I have joined the [ISSRE 2022](https://issre2022.github.io/) research track! Have a look at the new website and consider submitting!
 * I have joined the ASE 2022 [NIER track](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track)! Consider submitting a paper! 
