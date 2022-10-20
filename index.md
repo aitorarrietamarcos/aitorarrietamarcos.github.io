@@ -61,7 +61,7 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 ## Service
 
-### Conference
+### Conferences
 
 I have served at different conferences, with different roles, including:
 
