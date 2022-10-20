@@ -54,7 +54,7 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 ## Awards
 
-* 2020 -- GECCO Best paper at the Search-Based Software Engineering (SBSE) Track. Nominee to best paper awarded
+* 2020 -- [GECCO](https://gecco-2020.sigevo.org/index.html/HomePage) Best paper at the Search-Based Software Engineering (SBSE) Track. Nominee to conference best paper award.
 * 2019 -- Best PhD dissertation presented in 2017 in Software Engineering, awarded by the [SISTEDES](https://www.sistedes.es/) society.
 * 2019 -- Early-stage researcher for his research in the field of software development and testing of industrial applications, awarded by [SCIE](https://www.scie.es) and [Fundación BBVA](https://www.fbbva.es/).
 
