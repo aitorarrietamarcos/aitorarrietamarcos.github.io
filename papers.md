@@ -28,7 +28,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 
 ### 2020
 * Arrieta, A., Agirre, J. A., & Sagardui, G. "Seeding strategies for multi-objective test case selection: an application on simulation-based testing" In Proceedings of the 2020 Genetic and Evolutionary Computation Conference (pp. 1222-1231).[BEST SBSE PAPER and NOMINEE TO CONFERENCE BEST PAPER AWARD]
-* Ayerdi, J., Segura, S., Arrieta, A., Arratibel, G. S., & Arratibel, M. "QoS-aware Metamorphic Testing: An Elevation Case Study" In 2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE) (pp. 104-114). IEEE.
+* Ayerdi, J., Segura, S., Arrieta, A., Sagardui, G., & Arratibel, M. "QoS-aware Metamorphic Testing: An Elevation Case Study" In 2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE) (pp. 104-114). IEEE.
 * Ayerdi, J., Garciandia, A., Arrieta, A., Afzal, W., Enoiu, E., Agirre, A., Sagardui, G., Arratibel, M. & Sellin, O.  "Towards a taxonomy for eliciting design-operation continuum requirements of cyber-physical systems" In 2020 IEEE 28th International Requirements Engineering Conference (RE), 2020, (pp. 280-290). IEEE.
 * Arrieta, A., Agirre, J. A., & Sagardui, G. "A Tool for the Automatic Generation of Test Cases and Oracles for Simulation Models Based on Functional Requirements" In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), 2020, (pp. 1-5). IEEE.
 
