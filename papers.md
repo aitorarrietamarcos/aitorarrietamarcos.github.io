@@ -3,6 +3,7 @@
 You can also find my papers on [Google Scholar](https://scholar.google.lu/citations?user=ft06jF4AAAAJ&hl=es&oi=ao) and in [DBLP](https://dblp.org/pid/78/8234.html). Here is the list of some of them:
 
 ### 2022
+* Han, L., Ali, S., Yue, T., Arrieta, A., Arratibel, M.  "Uncertainty-aware Robustness Assessment of Industrial Elevator Systems". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
 * Michelton, G.K., Martinez, J., Sotto-Mayor, B., Arrieta, A., Assuncao, W.K.G., Abreu, R., Egyed, A. “Spectrum-based feature localization for families of systems”, Journal of Systems and Software, 2022, (Accepted for publication)
 * Ayerdi, J., Valle, P., Segura, S., Arrieta, A., Sagardui, G. & Arratibel, M. "Performance-Driven Metamorphic Testing of Cyber-Physical Systems". In IEEE Transactions on Reliability, 2022, (Accepted for publication)
 * Arrieta, A., Valle, P., Agirre, J.A., & Sagardui, G. "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
