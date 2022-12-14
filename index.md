@@ -65,7 +65,7 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 I have served at different conferences, with different roles. These are some examples:
 
-* PC Member, ICSE 2024 [Demonstration track] (https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations)
+* PC Member, ICSE 2024 [Demonstration track](https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations)
 * Track Chair at [QUATIC  2022](https://2022.quatic.org/thematic-tracks/Cyber-physical-Systems). Track "Quality Aspects in Digital Twins and Cyber-physical Systems"
 * PC Member, [ISSRE 2022](https://issre2022.github.io/) research track. Distinguished Reviewer Award.
 * PC Member, ASE 2022 [NIER track](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track)
