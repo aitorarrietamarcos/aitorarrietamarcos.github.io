@@ -2,9 +2,13 @@
 
 You can also find my papers on [Google Scholar](https://scholar.google.lu/citations?user=ft06jF4AAAAJ&hl=es&oi=ao) and in [DBLP](https://dblp.org/pid/78/8234.html). Here is the list of some of them:
 
+### 2023
+* Michelton, G.K., Martinez, J., Sotto-Mayor, B., Arrieta, A., Assuncao, W.K.G., Abreu, R., Egyed, A. “Spectrum-based feature localization for families of systems”, Journal of Systems and Software, 2023, (Accepted for publication)
+* Valle, P., Arrieta, A., Arratibel, M. “Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”. In Proceedings of the 45th International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) Track, 2023, (Accepted for publication)
+
+
 ### 2022
 * Han, L., Ali, S., Yue, T., Arrieta, A., Arratibel, M.  "Uncertainty-aware Robustness Assessment of Industrial Elevator Systems". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
-* Michelton, G.K., Martinez, J., Sotto-Mayor, B., Arrieta, A., Assuncao, W.K.G., Abreu, R., Egyed, A. “Spectrum-based feature localization for families of systems”, Journal of Systems and Software, 2022, (Accepted for publication)
 * Ayerdi, J., Valle, P., Segura, S., Arrieta, A., Sagardui, G. & Arratibel, M. "Performance-Driven Metamorphic Testing of Cyber-Physical Systems". In IEEE Transactions on Reliability, 2022, (Accepted for publication)
 * Arrieta, A., Valle, P., Agirre, J.A., & Sagardui, G. "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
 * Garciandia, A., Arrieta, A., Ayerdi, A., Illarramendi, M., Agirre, A., Sagardui, G. & Arratibe, M. "Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms" In Journal of Software: Evolution and Process, 2022, (Accepted for publication)
