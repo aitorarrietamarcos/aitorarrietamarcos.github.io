@@ -1,16 +1,14 @@
 # About Me
 
-I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these techniques in the context of Cyber-Physical Systems. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
+I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to Cyber-Physical Systems. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
 
-My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are.
-
-I am currently involved in the coordination of the [Adeptness project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
+My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are. I am currently involved in the coordination of the [Adeptness (H2020) project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
 ## Projects
 
 ### European Projects
 
-I am currently involved in the [Adeptness project](https://www.adeptness.eu/)
+I am currently involved in the [Adeptness project](https://www.adeptness.eu/). If you are interested in the outcomes of this project or you would like to be somehow involved, please contact me!
 
 ### Industrial Projects
 
@@ -38,10 +36,9 @@ I have also worked with other industrial private-funding projects with the follo
 
 ## News 
 
-* New journal paper at ACM Transactions on Software Engineering and Methodologies (TOSEM), lead by Liping Han, from Simula Research Laboratory, and titled as "Uncertainty-aware Robustness Assessment of Industrial Elevator Systems". Congrats Liping for the first journal paper of her PhD!
+* Our paper [“Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”](https://arxiv.org/pdf/2301.01487.pdf) has been accepted at ICSE 2023 (SEIP track)! Congratulations to Pablo Valle for this great work!  
+* New journal paper at ACM Transactions on Software Engineering and Methodologies (TOSEM), lead by Liping Han, from Simula Research Laboratory, and titled as ["Uncertainty-aware Robustness Assessment of Industrial Elevator Systems"](https://adeptness.eu/wp-content/uploads/2022/11/TOSEM_Camera_Ready.pdf). Congrats Liping for the first journal paper of her PhD!
 * I was awarded with a [distinguished reviewer award](https://issre2022.github.io/research_reviewers.html) at ISSRE 2022! Excited to get such a distinction!
-* New journal paper at IEEE Transactions on Reliability, titled as "Performance-Driven Metamorphic Testing of Cyber-Physical Systems". Kudos to Jon Ayerdi for his last journal paper of his PhD! 
-
 
 
 ## Oportunities
