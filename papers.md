@@ -7,7 +7,9 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 * Michelton, G.K., Martinez, J., Sotto-Mayor, B., Arrieta, A., Assuncao, W.K.G., Abreu, R., Egyed, A. “Spectrum-based feature localization for families of systems”, Journal of Systems and Software, 2023, 195, 111532.
 * Aldalur, I., Arrieta, A., Agirre, A., Sagardui, G., & Arratibel, M. "A Micro-Service-Based Framework for Multi-Level Testing of Cyber-Physical Systems". In Software Quality Journal (2023), (Accepted for publication).
 * Valle, P., Arrieta, A., Arratibel, M. “Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”. In Proceedings of the 45th International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) Track, 2023, (Accepted for publication)
+* Valle, P., Arrieta, A., Arratibel, M. “Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)”. In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA, 2023)(Accepted for publication).
 
+  
 
 ### 2022
 * Han, L., Ali, S., Yue, T., Arrieta, A., Arratibel, M.  "Uncertainty-aware Robustness Assessment of Industrial Elevator Systems". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
