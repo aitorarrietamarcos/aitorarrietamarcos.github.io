@@ -36,6 +36,7 @@ I have also worked with other industrial private-funding projects with the follo
 
 ## News 
 
+* I joined the Program Committee of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers) and [ISSRE 2023](https://issre.github.io/2023/)! 
 * Our paper Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper) was accepted at ISSTA 2023 main track! Congratulations to Pablo Valle for this great paper!
 * Our paper [“Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”](https://arxiv.org/pdf/2301.01487.pdf) has been accepted at ICSE 2023 (SEIP track)! Congratulations to Pablo Valle for this great work!  
 * New journal paper at ACM Transactions on Software Engineering and Methodologies (TOSEM), lead by Liping Han, from Simula Research Laboratory, and titled as ["Uncertainty-aware Robustness Assessment of Industrial Elevator Systems"](https://adeptness.eu/wp-content/uploads/2022/11/TOSEM_Camera_Ready.pdf). Congrats Liping for the first journal paper of her PhD!
@@ -64,6 +65,8 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 I have served at different conferences, with different roles. These are some examples:
 
 * PC Member, ICSE 2024 [Demonstration track](https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations)
+* PC Member, [ISSRE 2023](https://issre.github.io/2023/)
+* PC Member, [ASE 2023] (https://conf.researchr.org/track/ase-2023/ase-2023-papers)
 * Track Chair at [QUATIC  2022](https://2022.quatic.org/thematic-tracks/Cyber-physical-Systems). Track "Quality Aspects in Digital Twins and Cyber-physical Systems"
 * PC Member, [ISSRE 2022](https://issre2022.github.io/) research track. Distinguished Reviewer Award.
 * PC Member, ASE 2022 [NIER track](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track)
