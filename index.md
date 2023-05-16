@@ -66,7 +66,7 @@ I have served at different conferences, with different roles. These are some exa
 
 * PC Member, ICSE 2024 [Demonstration track](https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations)
 * PC Member, [ISSRE 2023](https://issre.github.io/2023/)
-* PC Member, [ASE 2023] (https://conf.researchr.org/track/ase-2023/ase-2023-papers)
+* PC Member, [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers)
 * Track Chair at [QUATIC  2022](https://2022.quatic.org/thematic-tracks/Cyber-physical-Systems). Track "Quality Aspects in Digital Twins and Cyber-physical Systems"
 * PC Member, [ISSRE 2022](https://issre2022.github.io/) research track. Distinguished Reviewer Award.
 * PC Member, ASE 2022 [NIER track](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track)
