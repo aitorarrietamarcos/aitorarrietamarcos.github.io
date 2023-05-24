@@ -36,8 +36,9 @@ I have also worked with other industrial private-funding projects with the follo
 
 ## News 
 
+* I joined the Program Committee of [ICSE 2024 - SEIP track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)! 
 * I joined the Program Committee of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers) and [ISSRE 2023](https://issre.github.io/2023/)! 
-* Our paper Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper) was accepted at ISSTA 2023 main track! Congratulations to Pablo Valle for this great paper!
+* Our paper "Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)" was accepted at ISSTA 2023 main track! Congratulations to Pablo Valle for this great paper!
 * Our paper [“Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”](https://arxiv.org/pdf/2301.01487.pdf) has been accepted at ICSE 2023 (SEIP track)! Congratulations to Pablo Valle for this great work!  
 * New journal paper at ACM Transactions on Software Engineering and Methodologies (TOSEM), lead by Liping Han, from Simula Research Laboratory, and titled as ["Uncertainty-aware Robustness Assessment of Industrial Elevator Systems"](https://adeptness.eu/wp-content/uploads/2022/11/TOSEM_Camera_Ready.pdf). Congrats Liping for the first journal paper of her PhD!
 * I was awarded with a [distinguished reviewer award](https://issre2022.github.io/research_reviewers.html) at ISSRE 2022! Excited to get such a distinction!
@@ -101,11 +102,11 @@ Graduated Students:
 * Jon Ayerdi (PhD student), Graduated December 2022. Excelent Cum Laude.
 
 Current supervision:
-* Eñaut Mendiluze (Master Student), since 2021. Now together with Rui Abreu.
-* Pablo Valle (Master Student), since 2022
+* Pablo Valle (Master Student and future PhD student), since 2022
 
 Previous students and post-doc supervision:
 * Ernest Pobee (Postdoctoral fellow), 2021-2022
+* Eñaut Mendiluze (Master Student), since 2021-2023
 * Pablo Valle (Research Assistant), 2019-2022
 * Jorge da Silva (Research Assitant), 2021
 * Eñaut Mendiluze (Bachelor degree project), 2020-2021, in Simula Research Laboratory
