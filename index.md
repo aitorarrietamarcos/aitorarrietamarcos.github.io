@@ -33,15 +33,13 @@ I have also worked with other industrial private-funding projects with the follo
 * Ulma Embedded Solutions
 
 
-
 ## News 
 
+* I joined the Program Committee of [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers), one of my favorites conferences!
 * I joined the Program Committee of [ICSE 2024 - SEIP track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)! 
 * I joined the Program Committee of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers) and [ISSRE 2023](https://issre.github.io/2023/)! 
 * Our paper "Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)" was accepted at ISSTA 2023 main track! Congratulations to Pablo Valle for this great paper!
 * Our paper [“Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”](https://arxiv.org/pdf/2301.01487.pdf) has been accepted at ICSE 2023 (SEIP track)! Congratulations to Pablo Valle for this great work!  
-* New journal paper at ACM Transactions on Software Engineering and Methodologies (TOSEM), lead by Liping Han, from Simula Research Laboratory, and titled as ["Uncertainty-aware Robustness Assessment of Industrial Elevator Systems"](https://adeptness.eu/wp-content/uploads/2022/11/TOSEM_Camera_Ready.pdf). Congrats Liping for the first journal paper of her PhD!
-* I was awarded with a [distinguished reviewer award](https://issre2022.github.io/research_reviewers.html) at ISSRE 2022! Excited to get such a distinction!
 
 
 ## Oportunities
@@ -65,9 +63,13 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 I have served at different conferences, with different roles. These are some examples:
 
+* PC Member, [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers)
+* PC Member, ICSE 2024 [Software Engineering in Practice track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)
 * PC Member, ICSE 2024 [Demonstration track](https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations)
+* PC Member, [SSBSE 2023] (https://conf.researchr.org/track/ssbse-2023/ssbse-2023-research-papers)
 * PC Member, [ISSRE 2023](https://issre.github.io/2023/)
 * PC Member, [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers)
+* PC Member, ASE 2023 [Industry Showcase track](https://conf.researchr.org/track/ase-2023/ase-2023-industry-showcase-papers)
 * Track Chair at [QUATIC  2022](https://2022.quatic.org/thematic-tracks/Cyber-physical-Systems). Track "Quality Aspects in Digital Twins and Cyber-physical Systems"
 * PC Member, [ISSRE 2022](https://issre2022.github.io/) research track. Distinguished Reviewer Award.
 * PC Member, ASE 2022 [NIER track](https://conf.researchr.org/track/ase-2022/ase-2022-nier-track)
@@ -90,7 +92,8 @@ I have reviewed for different journals, including:
 
 ## Lecturing
 
-* Since 2021-2022 course, I teach "Software Engineering", at bachelor degree level.
+* I will be teaching a new course in 2023, named as "Programming Cyber-Physical Systems). 
+* During 2021-2022 course, I teach "Software Engineering", at bachelor degree level.
 * I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
 * Since 2018 to 2020, and from 2022 on I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
 * At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 

@@ -4,20 +4,21 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 
 ### 2023
 * Arrieta, A., Valle, P., Agirre, J.A., & Sagardui, G. "Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, 32 (1), 1-47
+* Han, L., Ali, S., Yue, T., Arrieta, A., Arratibel, M.  "Uncertainty-aware Robustness Assessment of Industrial Elevator Systems". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2023, 32(4), 1-51.
+* Ayerdi, J., Valle, P., Segura, S., Arrieta, A., Sagardui, G. & Arratibel, M. "Performance-Driven Metamorphic Testing of Cyber-Physical Systems". In IEEE Transactions on Reliability, 2023, 72(2): 827-845
 * Michelton, G.K., Martinez, J., Sotto-Mayor, B., Arrieta, A., Assuncao, W.K.G., Abreu, R., Egyed, A. “Spectrum-based feature localization for families of systems”, Journal of Systems and Software, 2023, 195, 111532.
 * Aldalur, I., Arrieta, A., Agirre, A., Sagardui, G., & Arratibel, M. "A Micro-Service-Based Framework for Multi-Level Testing of Cyber-Physical Systems". In Software Quality Journal (2023), (Accepted for publication).
-* Valle, P., Arrieta, A., Arratibel, M. “Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”. In Proceedings of the 45th International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) Track, 2023, (Accepted for publication)
-* Valle, P., Arrieta, A., Arratibel, M. “Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)”. In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA, 2023)(Accepted for publication).
+* Valle, P., Arrieta, A., Arratibel, M. “Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”. In Proceedings of the 45th International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) Track, 2023, (pp. 396-408)
+* Valle, P., Arrieta, A., Arratibel, M. “Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)”. In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (pp. 1055–1067)
+* Ugarte, M., Jee, E., Liu, L., Valle, P., Arrieta, A., Illarramendi, M. "Search-based Test Case Selection for PLC Systems using Functional Block Diagram Programs" In 2023 IEEE 34rd International Symposium on Software Reliability Engineering (ISSRE)  (Accepted for publication). IEEE.
 
   
 
 ### 2022
-* Han, L., Ali, S., Yue, T., Arrieta, A., Arratibel, M.  "Uncertainty-aware Robustness Assessment of Industrial Elevator Systems". In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, (Accepted for publication)
-* Ayerdi, J., Valle, P., Segura, S., Arrieta, A., Sagardui, G. & Arratibel, M. "Performance-Driven Metamorphic Testing of Cyber-Physical Systems". In IEEE Transactions on Reliability, 2022, (Accepted for publication)
 * Garciandia, A., Arrieta, A., Ayerdi, A., Illarramendi, M., Agirre, A., Sagardui, G. & Arratibe, M. "Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms" In Journal of Software: Evolution and Process, 2022, (Accepted for publication)
-* Han, L., Yue, T., Ali, S., Arrieta, A., Arratibel, M. "Are Elevator Software Robust Against Uncertainties? Results and Experiences from an Industrial Case Study", In Proceedings of the 30th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (Accepted for publication)
-* Ayerdi, J., Arrieta, A., Pobee, E., & Arratibel, M. "Multi-Objective Metamorphic Test Case Selection: an Industrial Case Study" In 2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE) (Accepted for publication). IEEE.
-* Arrieta, A., "On the Cost-Effectiveness of Composite Metamorphic Relations for Testing Deep Lerning Systems", at Metamorphic Testing Workshop (MET2022), 2022, (Accepted for publication)
+* Han, L., Yue, T., Ali, S., Arrieta, A., Arratibel, M. "Are Elevator Software Robust Against Uncertainties? Results and Experiences from an Industrial Case Study", In Proceedings of the 30th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (pp. 1331-1342).
+* Ayerdi, J., Arrieta, A., Pobee, E., & Arratibel, M. "Multi-Objective Metamorphic Test Case Selection: an Industrial Case Study" In 2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE)  (pp. 541-552). IEEE.
+* Arrieta, A., "On the Cost-Effectiveness of Composite Metamorphic Relations for Testing Deep Lerning Systems", at Metamorphic Testing Workshop (MET2022), 2022, p. 42-47.
 * Arrieta, A., "Is the Revisited Hypervolume an Appropriate Quality Indicator to Evaluate Multi-Objective Test Case Selection Algorithms?", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (pp. 1317–1326)
 * Arrieta, A., "Multi-Objective Metamorphic Follow-up Test Case Selection for Deep Learning Systems", at Genetic and Evolutionary Computation Conference (GECCO 2022), 2022, (1327–1335)
 * Arrieta, A., Otaegi, M., Han, L., Sagardui, G., Ali, S., Arratibel, M. "Automating Test Oracle Generation in DevOps for Industrial Elevators". In 2022 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER) (pp. 284-288). IEEE.
