@@ -1,6 +1,6 @@
 # About Me
 
-I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to Cyber-Physical Systems. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
+I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these complex software systems, like Cyber-Physical Systems and AI-based systems. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
 
 My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are. I am currently involved in the coordination of the [Adeptness (H2020) project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
