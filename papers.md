@@ -11,7 +11,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 * Valle, P., Arrieta, A., Arratibel, M. “Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”. In Proceedings of the 45th International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) Track, 2023, (pp. 396-408)
 * Valle, P., Arrieta, A., Arratibel, M. “Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)”. In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (pp. 1055–1067)
 * Ugarte, M., Jee, E., Liu, L., Valle, P., Arrieta, A., Illarramendi, M. "Search-based Test Case Selection for PLC Systems using Functional Block Diagram Programs" In 2023 IEEE 34rd International Symposium on Software Reliability Engineering (ISSRE)  (Accepted for publication). IEEE.
-
+* Arrieta, A., Illarramendi, M. "A Novel Mutation Operator for Search-based Test Case Selection" In 2023 Symposium on Search-Based Software Engineering (SSBSE) (Accepted for publication)
   
 
 ### 2022

@@ -35,6 +35,7 @@ I have also worked with other industrial private-funding projects with the follo
 
 ## News 
 
+* I joined the TOSEM [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
 * I joined the Program Committee of [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers), one of my favorites conferences!
 * I joined the Program Committee of [ICSE 2024 - SEIP track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)! 
 * I joined the Program Committee of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers) and [ISSRE 2023](https://issre.github.io/2023/)! 
@@ -63,10 +64,11 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 I have served at different conferences, with different roles. These are some examples:
 
+* PC Member, SANER 2024 [Short Papers and Posters Track](https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-)
 * PC Member, [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers)
 * PC Member, ICSE 2024 [Software Engineering in Practice track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)
 * PC Member, ICSE 2024 [Demonstration track](https://conf.researchr.org/track/icse-2024/icse-2024-demonstrations)
-* PC Member, [SSBSE 2023] (https://conf.researchr.org/track/ssbse-2023/ssbse-2023-research-papers)
+* PC Member, [SSBSE 2023](https://conf.researchr.org/track/ssbse-2023/ssbse-2023-research-papers)
 * PC Member, [ISSRE 2023](https://issre.github.io/2023/)
 * PC Member, [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers)
 * PC Member, ASE 2023 [Industry Showcase track](https://conf.researchr.org/track/ase-2023/ase-2023-industry-showcase-papers)
@@ -76,6 +78,8 @@ I have served at different conferences, with different roles. These are some exa
 
 
 ### Journals
+
+I am part of the ACM Transactions on Software Engineering and Methodology (TOSEM) [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
 
 I have reviewed for different journals, including:
 
@@ -101,11 +105,12 @@ I have reviewed for different journals, including:
 
 ## Students and Postdoc Supervision
 
+Current supervision:
+* [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, co-supervised with [Shaukat Ali](https://www.simula.no/people/shaukat)
+* Pablo Valle (Master Student and future PhD student), since 2022
+
 Graduated Students:
 * Jon Ayerdi (PhD student), Graduated December 2022. Excelent Cum Laude.
-
-Current supervision:
-* Pablo Valle (Master Student and future PhD student), since 2022
 
 Previous students and post-doc supervision:
 * Ernest Pobee (Postdoctoral fellow), 2021-2022
