@@ -108,6 +108,7 @@ I have reviewed for different journals, including:
 Current supervision:
 * [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, co-supervised with [Shaukat Ali](https://www.simula.no/people/shaukat)
 * Pablo Valle (Master Student and future PhD student), since 2022
+* [Sehrish Malik](https://www.simula.no/people/sehrish) (External post-doctoral fellow), since 2023
 
 Graduated Students:
 * Jon Ayerdi (PhD student), Graduated December 2022. Excelent Cum Laude.
