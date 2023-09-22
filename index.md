@@ -4,33 +4,27 @@ I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the Uni
 
 My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are. I am currently involved in the coordination of the [Adeptness (H2020) project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
-## Projects
 
-### European Projects
+## Students and Postdoc Supervision
 
-I am currently involved in the [Adeptness project](https://www.adeptness.eu/). If you are interested in the outcomes of this project or you would like to be somehow involved, please contact me!
+Current supervision:
+* [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, co-supervised with [Shaukat Ali](https://www.simula.no/people/shaukat)
+* Pablo Valle (Master Student and future PhD student), since 2022
+* [Sehrish Malik](https://www.simula.no/people/sehrish) (External post-doctoral fellow), since 2023
 
-### Industrial Projects
+Graduated Students:
+* Jon Ayerdi (PhD student), Graduated December 2022. Excelent Cum Laude.
 
-I currently collaborate in private-funding projects with the following companies:
-* [Orona](https://www.orona.co.uk/en-gb)
-* [Developair](https://www.developair.tech/es/)
+Previous students and post-doc supervision:
+* Ernest Pobee (Postdoctoral fellow), 2021-2022
+* Eñaut Mendiluze (Master Student), since 2021-2023
+* Pablo Valle (Research Assistant), 2019-2022
+* Jorge da Silva (Research Assitant), 2021
+* Eñaut Mendiluze (Bachelor degree project), 2020-2021, in Simula Research Laboratory
+* Joritz Galarraga (Bachelor degree project), 2020-2021, in Simula Research Laboratory
+* Ander Zubizarreta (Bachelor degree project), 2021
 
 
-### Past Projects
-
-Previously, I worked in different research projects, including:
-* HIFI-ELEMENTS - H2020 Project
-* TESTOMAT - ITEA 3 Project
-* SCRATCH - ITEA 3 Project
-* TESEO - Basque Government funded project
-* DIGITAL - Basque Government funded project
-* PING - Regional project
-
-I have also worked with other industrial private-funding projects with the following companies:
-* [Mathworks](https://mathworks.com/)
-* Ulma Handling Systems
-* Ulma Embedded Solutions
 
 
 ## News 
@@ -94,33 +88,44 @@ I have reviewed for different journals, including:
 * Journal of Object Technology
 
 
+
+## Projects
+
+### European Projects
+
+I am currently involved in the [Adeptness project](https://www.adeptness.eu/). If you are interested in the outcomes of this project or you would like to be somehow involved, please contact me!
+
+### Industrial Projects
+
+I currently collaborate in private-funding projects with the following companies:
+* [Orona](https://www.orona.co.uk/en-gb)
+* [Developair](https://www.developair.tech/es/)
+
+
+### Past Projects
+
+Previously, I worked in different research projects, including:
+* HIFI-ELEMENTS - H2020 Project
+* TESTOMAT - ITEA 3 Project
+* SCRATCH - ITEA 3 Project
+* TESEO - Basque Government funded project
+* DIGITAL - Basque Government funded project
+* PING - Regional project
+
+I have also worked with other industrial private-funding projects with the following companies:
+* [Mathworks](https://mathworks.com/)
+* Ulma Handling Systems
+* Ulma Embedded Solutions
+
+
 ## Lecturing
 
-* I will be teaching a new course in 2023, named as "Programming Cyber-Physical Systems). 
+* I will be teaching a new course in 2023, named as "Programming Cyber-Physical Systems". 
 * During 2021-2022 course, I teach "Software Engineering", at bachelor degree level.
 * I also teach yearly a seminar on "Methodological guidelines for the preparation of a doctoral dissertation", at doctoral level.
 * Since 2018 to 2020, and from 2022 on I have been the lecturer of "Industrial Informatics" (4.5 ECTS), at bachelor degree level.
 * At master level, I taughted the course "Verification and Validation of Embedded Systems" (6 ECTS), in 2018 and 2019 
 * I also taughted other subjects (e.g., Basic Programming) at different engineering degrees (Computer Science, Mechanical Engineering, etc.)
-
-## Students and Postdoc Supervision
-
-Current supervision:
-* [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, co-supervised with [Shaukat Ali](https://www.simula.no/people/shaukat)
-* Pablo Valle (Master Student and future PhD student), since 2022
-* [Sehrish Malik](https://www.simula.no/people/sehrish) (External post-doctoral fellow), since 2023
-
-Graduated Students:
-* Jon Ayerdi (PhD student), Graduated December 2022. Excelent Cum Laude.
-
-Previous students and post-doc supervision:
-* Ernest Pobee (Postdoctoral fellow), 2021-2022
-* Eñaut Mendiluze (Master Student), since 2021-2023
-* Pablo Valle (Research Assistant), 2019-2022
-* Jorge da Silva (Research Assitant), 2021
-* Eñaut Mendiluze (Bachelor degree project), 2020-2021, in Simula Research Laboratory
-* Joritz Galarraga (Bachelor degree project), 2020-2021, in Simula Research Laboratory
-* Ander Zubizarreta (Bachelor degree project), 2021
 
 
 
