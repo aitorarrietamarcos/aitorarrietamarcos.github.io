@@ -1,6 +1,6 @@
 # About Me
 
-I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these complex software systems, like Cyber-Physical Systems and AI-based systems. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
+I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
 
 My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are. I am currently involved in the coordination of the [Adeptness (H2020) project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
 
@@ -30,7 +30,7 @@ Previous students and post-doc supervision:
 ## News 
 
 * I joined the TOSEM [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
-* I joined the Program Committee of [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers), one of my favorites conferences!
+* I joined the Program Committee of [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers), one of my favorite conference!
 * I joined the Program Committee of [ICSE 2024 - SEIP track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)! 
 * I joined the Program Committee of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers) and [ISSRE 2023](https://issre.github.io/2023/)! 
 * Our paper "Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)" was accepted at ISSTA 2023 main track! Congratulations to Pablo Valle for this great paper!
