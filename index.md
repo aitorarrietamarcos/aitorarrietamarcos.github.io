@@ -29,12 +29,13 @@ Previous students and post-doc supervision:
 
 ## News 
 
+* New project accepted! Titled as "TRUST4AI: Trustable AI-Driven Internet Search", it will explore techniques to automatically test Large Language Models! The project will be co-led with [Prof. Sergio Segura](https://personales.us.es/sergiosegura/)
 * I joined the TOSEM [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
 * I joined the Program Committee of [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers), one of my favorite conference!
 * I joined the Program Committee of [ICSE 2024 - SEIP track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)! 
 * I joined the Program Committee of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers) and [ISSRE 2023](https://issre.github.io/2023/)! 
 * Our paper "Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)" was accepted at ISSTA 2023 main track! Congratulations to Pablo Valle for this great paper!
-* Our paper [“Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”](https://arxiv.org/pdf/2301.01487.pdf) has been accepted at ICSE 2023 (SEIP track)! Congratulations to Pablo Valle for this great work!  
+ 
 
 
 ## Oportunities
