@@ -1,9 +1,6 @@
 # About Me
 
-I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques.
-
-My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are. I am currently involved in the coordination of the [Adeptness (H2020) project](https://www.adeptness.eu/), although I actively participate in the technical part. Specifically, I am working on automated approaches for the multi-level testing of Cyber-Physical Systems.
-
+I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques. My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are and try not only to devise novel approaches, but ensure its applicability and scalability.
 
 ## Students and Postdoc Supervision
 
@@ -29,6 +26,8 @@ Previous students and post-doc supervision:
 
 ## News 
 
+* Our paper "A Novel Mutation Operator for Search-Based Test Case Selection" received the best paper award at the 15th International Symposium on Search Based Software Engineering! Very honored to receive this award!
+* I have joined the Program Committee of the special event of AI Foundation Models and Software Engineering (FORGE 2024), co-located with ICSE 2024!
 * New project accepted! Titled as "TRUST4AI: Trustable AI-Driven Internet Search", it will explore techniques to automatically test Large Language Models! The project will be co-led with [Prof. Sergio Segura](https://personales.us.es/sergiosegura/)
 * I joined the TOSEM [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
 * I joined the Program Committee of [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers), one of my favorite conference!
@@ -59,6 +58,7 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 I have served at different conferences, with different roles. These are some examples:
 
+* PC Member, [FORGE 2024](https://conf.researchr.org/home/forge-2024)
 * PC Member, SANER 2024 [Short Papers and Posters Track](https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-)
 * PC Member, [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers)
 * PC Member, ICSE 2024 [Software Engineering in Practice track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)
@@ -94,18 +94,22 @@ I have reviewed for different journals, including:
 
 ### European Projects
 
-I am currently involved in the [Adeptness project](https://www.adeptness.eu/). If you are interested in the outcomes of this project or you would like to be somehow involved, please contact me!
+Starting in 2024, I will lead the project TRUST4AI, Trustable AI-Driven Internet Search!
+
+From 2020 to 2023 March, I coordinated the [Adeptness project](https://www.adeptness.eu/). If you are interested in the outcomes of this project or you would like to be somehow involved, please contact me!
 
 ### Industrial Projects
 
 I currently collaborate in private-funding projects with the following companies:
 * [Orona](https://www.orona.co.uk/en-gb)
 * [Developair](https://www.developair.tech/es/)
+* [Laboral Kutxa](https://www.laboralkutxa.com/)
 
 
 ### Past Projects
 
 Previously, I worked in different research projects, including:
+* [Adeptness](https://www.adeptness.eu/) - H2020 project (Principal Investigator)
 * HIFI-ELEMENTS - H2020 Project
 * TESTOMAT - ITEA 3 Project
 * SCRATCH - ITEA 3 Project
