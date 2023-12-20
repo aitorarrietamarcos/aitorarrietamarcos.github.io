@@ -11,7 +11,8 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 * Valle, P., Arrieta, A., Arratibel, M. “Automated Misconfiguration Repair of Configurable Cyber-Physical Systems with Search: an Industrial Case Study on Elevator Dispatching Algorithms”. In Proceedings of the 45th International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) Track, 2023, (pp. 396-408) [[PDF](https://arxiv.org/pdf/2301.01487.pdf)]
 * Valle, P., Arrieta, A., Arratibel, M. “Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)”. In Proceedings of the 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (pp. 1055–1067)[[PDF](https://arxiv.org/pdf/2305.17803.pdf)]
 * Ugarte, M., Jee, E., Liu, L., Valle, P., Arrieta, A., Illarramendi, M. "Search-based Test Case Selection for PLC Systems using Functional Block Diagram Programs" In 2023 IEEE 34rd International Symposium on Software Reliability Engineering (ISSRE)  (Accepted for publication). IEEE.
-* Arrieta, A., Illarramendi, M. "A Novel Mutation Operator for Search-based Test Case Selection" In 2023 Symposium on Search-Based Software Engineering (SSBSE) (Accepted for publication)
+* Arrieta, A., Illarramendi, M. "A Novel Mutation Operator for Search-based Test Case Selection"  In International Symposium on Search Based Software Engineering (pp. 84-98). Cham: Springer Nature Switzerland.
+Arrieta, A., & Illarramendi, M. (2023, December). A Novel Mutation Operator for Search-Based Test Case Selection. In International Symposium on Search Based Software Engineering (pp. 84-98). Cham: Springer Nature Switzerland. **Best Paper Award**
   
 
 ### 2022
@@ -36,7 +37,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 * Arrieta, A., Bellido, G., Da Silva, J., Markiegi, U., & Gago, J. (2021). De la simulación a la realidad: metodología para el aprendizaje de sistemas ciber-físicos. Actas de las Jenui, 6, 283-286.
 
 ### 2020
-* Arrieta, A., Agirre, J. A., & Sagardui, G. "Seeding strategies for multi-objective test case selection: an application on simulation-based testing" In Proceedings of the 2020 Genetic and Evolutionary Computation Conference (pp. 1222-1231).[BEST SBSE PAPER and NOMINEE TO CONFERENCE BEST PAPER AWARD]
+* Arrieta, A., Agirre, J. A., & Sagardui, G. "Seeding strategies for multi-objective test case selection: an application on simulation-based testing" In Proceedings of the 2020 Genetic and Evolutionary Computation Conference (pp. 1222-1231).**Best SBSE PAPER and Nominee to conference best paper award**
 * Ayerdi, J., Segura, S., Arrieta, A., Sagardui, G., & Arratibel, M. "QoS-aware Metamorphic Testing: An Elevation Case Study" In 2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE) (pp. 104-114). IEEE.
 * Ayerdi, J., Garciandia, A., Arrieta, A., Afzal, W., Enoiu, E., Agirre, A., Sagardui, G., Arratibel, M. & Sellin, O.  "Towards a taxonomy for eliciting design-operation continuum requirements of cyber-physical systems" In 2020 IEEE 28th International Requirements Engineering Conference (RE), 2020, (pp. 280-290). IEEE.
 * Arrieta, A., Agirre, J. A., & Sagardui, G. "A Tool for the Automatic Generation of Test Cases and Oracles for Simulation Models Based on Functional Requirements" In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), 2020, (pp. 1-5). IEEE.
