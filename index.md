@@ -30,6 +30,7 @@ Previous students and post-doc supervision:
 
 ## News 
 
+* I have joined the editorial board of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)! Very happy to learn this new role!
 * Our paper "A Novel Mutation Operator for Search-Based Test Case Selection" received the best paper award at the 15th International Symposium on Search Based Software Engineering! Very honored to receive this award!
 * I have joined the Program Committee of the special event of AI Foundation Models and Software Engineering (FORGE 2024), co-located with ICSE 2024!
 * New project accepted! Titled as "TRUST4AI: Trustable AI-Driven Internet Search", it will explore techniques to automatically test Large Language Models! The project will be co-led with [Prof. Sergio Segura](https://personales.us.es/sergiosegura/)
@@ -77,6 +78,8 @@ I have served at different conferences, with different roles. These are some exa
 
 
 ### Journals
+
+I am part of the Editorial Board of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
 
 I am part of the ACM Transactions on Software Engineering and Methodology (TOSEM) [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
 
