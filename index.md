@@ -67,7 +67,7 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 I have served at different conferences, with different roles. These are some examples:
 
-* pc Member, [SSBSE 2024](https://conf.researchr.org/track/ssbse-2024)
+* PC Member, [SSBSE 2024](https://conf.researchr.org/track/ssbse-2024)
 * PC Member, [ISSRE 2024](https://issre.github.io/2024/)
 * PC Member, [FORGE 2024](https://conf.researchr.org/home/forge-2024)
 * PC Member, SANER 2024 [Short Papers and Posters Track](https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-)
