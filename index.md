@@ -10,13 +10,14 @@ I am looking for a self-motivated PhD student on Testing Large Language Models. 
 
 Current supervision:
 * [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, co-supervised with [Shaukat Ali](https://www.simula.no/people/shaukat)
-* Pablo Valle (Master Student and future PhD student), since 2022
-* [Sehrish Malik](https://www.simula.no/people/sehrish) (External post-doctoral fellow), since 2023
+* Pablo Valle (PhD student), since 2024
+* Peru Ramos (Research assistant), 2023-2024
 
 Graduated Students:
 * Jon Ayerdi (PhD student), Graduated December 2022. Excelent Cum Laude.
 
 Previous students and post-doc supervision:
+* [Sehrish Malik](https://www.simula.no/people/sehrish) (External post-doctoral fellow), 2023
 * Ernest Pobee (Postdoctoral fellow), 2021-2022
 * Eñaut Mendiluze (Master Student), since 2021-2023
 * Pablo Valle (Research Assistant), 2019-2022
@@ -30,7 +31,8 @@ Previous students and post-doc supervision:
 
 ## News 
 
-* I have joined the editorial board of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)! Very happy to learn this new role!
+* For another year, I have joined the PC of [ISSRE 2024](https://issre.github.io/2024/) and [SSBSE 2024](https://conf.researchr.org/track/ssbse-2024/ssbse-2024-research#Call-for-Papers) conferences, two of my favorites conference!
+* I have joined the editorial board of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) and [Information and Science Technology](https://www.sciencedirect.com/journal/information-and-software-technology/about/editorial-board)! Very happy to learn this new roles!
 * Our paper "A Novel Mutation Operator for Search-Based Test Case Selection" received the best paper award at the 15th International Symposium on Search Based Software Engineering! Very honored to receive this award!
 * I have joined the Program Committee of the special event of AI Foundation Models and Software Engineering (FORGE 2024), co-located with ICSE 2024!
 * New project accepted! Titled as "TRUST4AI: Trustable AI-Driven Internet Search", it will explore techniques to automatically test Large Language Models! The project will be co-led with [Prof. Sergio Segura](https://personales.us.es/sergiosegura/)
@@ -52,6 +54,8 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 ## Awards
 
+* 2024 -- Distinguished Reviewer Award at the first special event of AI Foundation Models and Software Engineering [(FORGE 2024)](https://conf.researchr.org/home/forge-2024) 
+* 2023 -- Best Paper Award at the 15th International Symposium on Search-based Software Engineering [SSBSE 2023](https://conf.researchr.org/home/ssbse-2023) at the 
 * 2022 -- [Distinguished Reviewer Award](https://issre2022.github.io/research_reviewers.html) at the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE)
 * 2020 -- [GECCO](https://gecco-2020.sigevo.org/index.html/HomePage) Best paper at the Search-Based Software Engineering (SBSE) Track. Nominee to conference best paper award.
 * 2019 -- Best PhD dissertation presented in 2017 in Software Engineering, awarded by the [SISTEDES](https://www.sistedes.es/) society.
@@ -63,6 +67,8 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 I have served at different conferences, with different roles. These are some examples:
 
+* pc Member, [SSBSE 2024](https://conf.researchr.org/track/ssbse-2024)
+* PC Member, [ISSRE 2024](https://issre.github.io/2024/)
 * PC Member, [FORGE 2024](https://conf.researchr.org/home/forge-2024)
 * PC Member, SANER 2024 [Short Papers and Posters Track](https://conf.researchr.org/track/saner-2024/saner-2024-short-papers-and-posters-track-)
 * PC Member, [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers)
@@ -79,7 +85,11 @@ I have served at different conferences, with different roles. These are some exa
 
 ### Journals
 
-I am part of the Editorial Board of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
+I am part of the Editorial Board of the following journals:
+
+* [Information and software Technology](https://www.sciencedirect.com/journal/information-and-software-technology)
+* [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
+
 
 I am part of the ACM Transactions on Software Engineering and Methodology (TOSEM) [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
 
@@ -101,7 +111,7 @@ I have reviewed for different journals, including:
 
 ### European Projects
 
-Starting in 2024, I will lead the project TRUST4AI, Trustable AI-Driven Internet Search!
+Starting in 2024, I will lead the project [TRUST4AI](https://trust4ai.github.io/trust4ai/), Trustable AI-Driven Internet Search!
 
 From 2020 to 2023 March, I coordinated the [Adeptness project](https://www.adeptness.eu/). If you are interested in the outcomes of this project or you would like to be somehow involved, please contact me!
 
