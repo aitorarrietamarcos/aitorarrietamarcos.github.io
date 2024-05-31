@@ -4,7 +4,8 @@ I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the Uni
 
 ## PhD Student Position
 
-I am looking for a self-motivated PhD student on Testing Large Language Models. [Check this opportunity.](phdThesis.html)
+I am looking for multiple self-motivated PhD students to work in the InnoGuard MSCA project in multiple aspects related to quality assurance of Cyber-Physical Systems (including, testing, automated program repair and uncertainty quantification). The project provides excelent support for researchers, including, good salary, family allowance, travel subsistance, etc. Drop me an e-mail if you are interested!
+
 
 ## Students and Postdoc Supervision
 
@@ -31,16 +32,13 @@ Previous students and post-doc supervision:
 
 ## News 
 
-* For another year, I have joined the PC of [ISSRE 2024](https://issre.github.io/2024/) and [SSBSE 2024](https://conf.researchr.org/track/ssbse-2024/ssbse-2024-research#Call-for-Papers) conferences, two of my favorites conference!
+* I have joined the PC of the two premier software testing conferences, [ISSTA 2025](https://conf.researchr.org/home/issta-2025) and [ICST 2025](https://conf.researchr.org/home/icst-2025)! Looking forward to reviewing interesting papers!
+* We got a new Marie-Curie Doctoral Training project funded, named InnoGuard, which aims at applying Generative AI techniques to ensure high quality for Autonomous Cyber-Physical Systems! 
+* For another year, I have joined the PC of [ISSRE 2024](https://issre.github.io/2024/) and [SSBSE 2024](https://conf.researchr.org/track/ssbse-2024/ssbse-2024-research#Call-for-Papers) conferences!
 * I have joined the editorial board of [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming) and [Information and Science Technology](https://www.sciencedirect.com/journal/information-and-software-technology/about/editorial-board)! Very happy to learn this new roles!
 * Our paper "A Novel Mutation Operator for Search-Based Test Case Selection" received the best paper award at the 15th International Symposium on Search Based Software Engineering! Very honored to receive this award!
 * I have joined the Program Committee of the special event of AI Foundation Models and Software Engineering (FORGE 2024), co-located with ICSE 2024!
 * New project accepted! Titled as "TRUST4AI: Trustable AI-Driven Internet Search", it will explore techniques to automatically test Large Language Models! The project will be co-led with [Prof. Sergio Segura](https://personales.us.es/sergiosegura/)
-* I joined the TOSEM [Distinguished Reviewers Board](https://dl.acm.org/journal/tosem/distinguished-reviewers-board)
-* I joined the Program Committee of [ICST 2024](https://conf.researchr.org/track/icst-2024/icst-2024-papers), one of my favorite conference!
-* I joined the Program Committee of [ICSE 2024 - SEIP track](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-in-practice)! 
-* I joined the Program Committee of [ASE 2023](https://conf.researchr.org/track/ase-2023/ase-2023-papers) and [ISSRE 2023](https://issre.github.io/2023/)! 
-* Our paper "Applying and Extending the Delta Debugging Algorithm for Elevator Dispatching Algorithms (Experience Paper)" was accepted at ISSTA 2023 main track! Congratulations to Pablo Valle for this great paper!
  
 
 
@@ -54,7 +52,10 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 ## Awards
 
+* 2024 -- Distinguished Reviewer Award at the 17th IEEE International Conference on Software Testing, Verification and Validation
+ [(ICST 2024)](https://conf.researchr.org/home/icst-2024) 
 * 2024 -- Distinguished Reviewer Award at the first special event of AI Foundation Models and Software Engineering [(FORGE 2024)](https://conf.researchr.org/home/forge-2024) 
+* 2023 -- Distinguished reviewer at [IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10473612)
 * 2023 -- Best Paper Award at the 15th International Symposium on Search-based Software Engineering [SSBSE 2023](https://conf.researchr.org/home/ssbse-2023) at the 
 * 2022 -- [Distinguished Reviewer Award](https://issre2022.github.io/research_reviewers.html) at the 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE)
 * 2020 -- [GECCO](https://gecco-2020.sigevo.org/index.html/HomePage) Best paper at the Search-Based Software Engineering (SBSE) Track. Nominee to conference best paper award.
@@ -67,6 +68,12 @@ Looking for a PhD, Postdoc or other collaboration? Have a look at the [opportuni
 
 I have served at different conferences, with different roles. These are some examples:
 
+* PC Member, [ISSTA 2025](https://conf.researchr.org/home/issta-2025)
+* PC Member, [ICST 2025](https://conf.researchr.org/home/icst-2025)
+* PC Member, [ASE 2024 NIER Track](https://conf.researchr.org/track/ase-2024/ase-2024-nier-track)
+* Artifact Evaluation Track Chair, [ISSRE 2024](https://issre.github.io/2024/)
+* Program Chair, [MET 2024](https://conf.researchr.org/home/issta-ecoop-2024/met-2024)
+* Program Chair, [AIST 2024](https://aistworkshop.github.io/)
 * PC Member, [SSBSE 2024](https://conf.researchr.org/track/ssbse-2024)
 * PC Member, [ISSRE 2024](https://issre.github.io/2024/)
 * PC Member, [FORGE 2024](https://conf.researchr.org/home/forge-2024)
@@ -87,7 +94,7 @@ I have served at different conferences, with different roles. These are some exa
 
 I am part of the Editorial Board of the following journals:
 
-* [Information and software Technology](https://www.sciencedirect.com/journal/information-and-software-technology)
+* [Information and Software Technology](https://www.sciencedirect.com/journal/information-and-software-technology)
 * [Science of Computer Programming](https://www.sciencedirect.com/journal/science-of-computer-programming)
 
 
@@ -110,6 +117,8 @@ I have reviewed for different journals, including:
 ## Projects
 
 ### European Projects
+
+Starting in 2024, I will lead the project InnoGuard -- InnoGuard: Hybrid and Generative Intelligence for Trustworthy Autonomous Cyber-Physical Systems
 
 Starting in 2024, I will lead the project [TRUST4AI](https://trust4ai.github.io/trust4ai/), Trustable AI-Driven Internet Search!
 
