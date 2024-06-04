@@ -1,6 +1,6 @@
 # About Me
 
-I am a permanent lecturer and researcher (a.k.a. Associate Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques. My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are and try not only to devise novel approaches, but ensure its applicability and scalability.
+I am a permanent full-time lecturer and researcher (a.k.a. Full Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques. My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are and try not only to devise novel approaches, but ensure its applicability and scalability.
 
 ## PhD Student Position
 
@@ -10,8 +10,8 @@ I am looking for multiple self-motivated PhD students to work in the InnoGuard M
 ## Students and Postdoc Supervision
 
 Current supervision:
-* [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, co-supervised with [Shaukat Ali](https://www.simula.no/people/shaukat)
 * Pablo Valle (PhD student), since 2024
+* [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, hosted by [Simula Research Laboratory](https://www.simula.no)
 * Peru Ramos (Research assistant), 2023-2024
 
 Graduated Students:
