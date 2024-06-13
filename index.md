@@ -1,6 +1,6 @@
 # About Me
 
-I am a permanent full-time lecturer and researcher (a.k.a. Full Professor) at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques. My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are and try not only to devise novel approaches, but ensure its applicability and scalability.
+I am a permanent full-time lecturer and researcher at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques. My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are and try not only to devise novel approaches, but ensure its applicability and scalability.
 
 ## PhD Student Position
 
