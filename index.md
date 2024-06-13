@@ -10,8 +10,9 @@ I am looking for multiple self-motivated PhD students to work in the InnoGuard M
 ## Students and Postdoc Supervision
 
 Current supervision:
-* Pablo Valle (PhD student), since 2024
 * [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, hosted by [Simula Research Laboratory](https://www.simula.no)
+* [Karoline Nylænder](https://www.simula.no/people/karolinen), (PhD student), since 2024, hosted by [Simula Research Laboratory](https://www.simula.no)
+* Pablo Valle (Master Student), since 2023
 * Peru Ramos (Research assistant), 2023-2024
 
 Graduated Students:
