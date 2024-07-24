@@ -8,7 +8,7 @@ I am looking for multiple self-motivated PhD students to work in two different p
 
 InnoGuard MSCA project, [3 year, 3 PhD positions](phdThesis_InnoGuard.html)
 
-ATRACT project, [4 year PhD position](phdThesis_Atract.html)!
+ATRACT project, [4 year PhD position](phdThesis_Atract.html)
 
 the InnoGuard MSCA project in multiple aspects related to quality assurance of Cyber-Physical Systems (including, testing, automated program repair and uncertainty quantification). The project provides excelent support for researchers, including, good salary, family allowance, travel subsistance, etc. Drop me an e-mail if you are interested!
 
