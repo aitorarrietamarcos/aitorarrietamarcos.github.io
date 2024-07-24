@@ -2,9 +2,15 @@
 
 I am a permanent full-time lecturer and researcher at the University of Mondragon. My research interests include software engineering and software testing areas, mostly related to the application of these to complex software systems, like Cyber-Physical Systems, AI-based systems and Generative AI models. In the last few years, my research has centered on the test oracle problem for this context and test optimization techniques. My research is industry-oriented. I collaborate with different industrial companies to better understand which their real problems are and try not only to devise novel approaches, but ensure its applicability and scalability.
 
-## PhD Student Position
+## Open PhD Student Position
 
-I am looking for multiple self-motivated PhD students to work in the InnoGuard MSCA project in multiple aspects related to quality assurance of Cyber-Physical Systems (including, testing, automated program repair and uncertainty quantification). The project provides excelent support for researchers, including, good salary, family allowance, travel subsistance, etc. Drop me an e-mail if you are interested!
+I am looking for multiple self-motivated PhD students to work in two different projects:
+
+InnoGuard MSCA project, [3 year, 3 PhD positions](phdThesis_InnoGuard.html)
+
+ATRACT project, [4 year PhD position](phdThesisAtract.html)!
+
+the InnoGuard MSCA project in multiple aspects related to quality assurance of Cyber-Physical Systems (including, testing, automated program repair and uncertainty quantification). The project provides excelent support for researchers, including, good salary, family allowance, travel subsistance, etc. Drop me an e-mail if you are interested!
 
 
 ## Students and Postdoc Supervision

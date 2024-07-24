@@ -4,6 +4,7 @@ You can also find my papers on [Google Scholar](https://scholar.google.lu/citati
 
 ### 2024
 * Ayerdi, J., Terragni, V., Jahangirova, G., Arrieta, A., Tonella, P. "GenMorph: Automatically Generating Metamorphic Relations via Genetic Programming", In IEEE Transactions on Software Engineering, 2024 (Accepted for publication)[[PDF](https://arxiv.org/pdf/2312.15302)]
+* Ayerdi, J., Iriarte, A., Valle, P., Roman, I., Illarramendi, M., Arrieta, A. "MarMot: Metarmorphic Runtime Monitoring of Autonomous Driving Systems", In ACM Transactions on Software Engineering and Methodology, 2024 (Accepted for publication)[[PDF](https://arxiv.org/pdf/2310.07414)]
 * Aldalur, I., Arrieta, A., Agirre, A., Sagardui, G., & Arratibel, M. (2024). A microservice-based framework for multi-level testing of cyber-physical systems. Software Quality Journal, 32(1), 193-223.
 * Wu, J., Lu, C., Arrieta, A., Yue, T., & Ali, S. (2024). Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models. In First Special Event on AI Foundation Models and Software Engineering [[PDF](https://arxiv.org/pdf/2403.09906)]
 * Wang, X., Ali, S., Arrieta, A., Arcaini, P., & Arratibel, M. (2024). Application of Quantum Extreme Learning Machines for QoS Prediction of Elevators' Software in an Industrial Context. In Proceedings of the 32nd ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering [[PDF](https://arxiv.org/pdf/2402.12777)]
