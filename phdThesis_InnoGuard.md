@@ -11,4 +11,4 @@ Position 2: It aims to investigate novel techniques to automatically test AI-ena
 Position 3: It aims to investigate Human-Machine Interface techniques to efficiently and effectively translate the "confidence" that the CPS and the AI components have when making decisions.
 
 
-
+For application, please, check the following webpage: https://www.innoguard.eu/apply.html
