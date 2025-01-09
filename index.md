@@ -4,11 +4,7 @@ I am a permanent full-time lecturer and researcher at the University of Mondrago
 
 ## Open PhD Student Position
 
-I am looking for multiple self-motivated PhD students to work in two different projects:
-
-InnoGuard MSCA project, [3 year, 3 PhD positions](phdThesis_InnoGuard.html)
-
-ATRACT project, [4 year PhD position](phdThesis_Atract.html)
+I am constantly looking for self-motivated PhD students. Currently we have multiple opening positions at InnoGuard MSCA project, [3 year, 3 PhD positions]([phdThesis_InnoGuard.html](https://www.innoguard.eu/apply.html))
 
 
 ## Students and Postdoc Supervision
@@ -16,13 +12,15 @@ ATRACT project, [4 year PhD position](phdThesis_Atract.html)
 Current supervision:
 * [Jiahui Wu](https://www.simula.no/people/jiahui) (PhD student), since 2023, hosted by [Simula Research Laboratory](https://www.simula.no)
 * [Karoline Nylænder](https://www.simula.no/people/karolinen), (PhD student), since 2024, hosted by [Simula Research Laboratory](https://www.simula.no)
-* Pablo Valle (Master Student), since 2023
-* Peru Ramos (Research assistant), 2023-2024
+* Pablo Valle (PhD Student), since 2024
+
 
 Graduated Students:
 * Jon Ayerdi (PhD student), Graduated December 2022. Excelent Cum Laude.
 
 Previous students and post-doc supervision:
+* Pablo Valle (Master Student), 2023-2024
+* Peru Ramos (Research assistant), 2023-2024
 * [Sehrish Malik](https://www.simula.no/people/sehrish) (External post-doctoral fellow), 2023
 * Ernest Pobee (Postdoctoral fellow), 2021-2022
 * Eñaut Mendiluze (Master Student), since 2021-2023
