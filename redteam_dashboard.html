@@ -508,7 +508,7 @@
 
       async function refreshData() {
         try {
-          const response = await fetch("https://script.google.com/a/macros/mondragon.edu/s/AKfycbwmjfrXu08q-jzHROM99LUV6hO7egw4Dr6zAzWihd-OTZfS9LkmQc9TEEBu4DOqBhMTqw/exec?getData=true");
+          const response = await fetch("?getData=true");
           const rawData = await response.json();
           if(rawData.error) throw new Error(rawData.error);
           const processed = processData(rawData);
