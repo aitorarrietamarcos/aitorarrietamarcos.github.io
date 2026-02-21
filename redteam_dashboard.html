@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <base target="_top">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"></script>
+    <style>
+      body { 
+        margin: 0; 
+        padding: 20px; 
+        font-family: Arial, sans-serif;
+        background: #f8f9fa;
+      }
+      .container { 
+        max-width: 1400px; 
+        margin: 0 auto; 
+      }
+      .ranking-box h2 {
+        font-weight: 800;
+      }
+      .metrics-container { 
+        display: grid; 
+        grid-template-columns: repeat(3, 1fr); 
+        gap: 25px; 
+        margin-bottom: 30px;
+      }
+      .metric-box { 
+        background: white;
+        padding: 25px; 
+        border-radius: 12px; 
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        transition: transform 0.2s;
+        border: 1px solid rgba(0,0,0,0.1);
+        min-height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .metric-box:hover {
+        transform: translateY(-5px);
+      }
+      .metric-box h2 {
+        margin: 0 0 15px 0;
+        color: #2c3e50;
+        font-size: 2em;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+      }
+      .counter {
+        font-size: 3.5em;
+        font-weight: bold;
+        margin: 10px 0;
+      }
+      .metric-icon {
+        font-size: 2em;
+        margin-bottom: 15px;
+      }
+      .pass-box { 
+        background: linear-gradient(135deg, #d4edda 0%, #ffffff 100%);
+        border-left: 5px solid #28a745;
+      }
+      .pass-box .counter { color: #28a745; }
+      .fail-box { 
+        background: linear-gradient(135deg, #f8d7da 0%, #ffffff 100%);
+        border-left: 5px solid #dc3545;
+      }
+      .fail-box .counter { color: #dc3545; }
+      .ranking-box { 
+        background: linear-gradient(135deg, #fff3cd 0%, #ffffff 100%);
+        border-left: 5px solid #ffc107;
+      }
+      .ranking-box .counter { color: #ffc107; }
+      /* Horizontal bar styles */
+      .metric-row {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+      }
+      .metric-label {
+        width: 60px; 
+        text-align: right;
+        margin-right: 10px;
+        font-weight: bold;
+      }
+      .progress-bar {
+        flex: 1;
+        background-color: #eee;
+        border-radius: 4px;
+        height: 12px;
+        position: relative;
+        overflow: hidden;
+      }
+      .progress {
+        height: 100%;
+        border-radius: 4px;
+      }
+      .progress-pass {
+        background-color: #28a745;
+      }
+      .progress-fail {
+        background-color: #dc3545;
+      }
+      .charts-row {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+        margin: 20px 0;
+      }
+      .chart-wrapper {
+        background: white;
+        border-radius: 8px;
+        padding: 15px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        height: 400px;
+      }
+      .chart-title {
+        margin: 0 0 10px 0;
+        font-size: 1.1em;
+        color: #333;
+      }
+      canvas {
+        max-height: 350px !important;
+      }
+      table { 
+        width: 100%; 
+        margin: 15px 0; 
+        border-collapse: collapse; 
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        background: white;
+        border-radius: 8px;
+        overflow: hidden;
+      }
+      th, td { 
+        padding: 12px; 
+        border: 1px solid #eee;
+        text-align: right;
+      }
+      .td2{
+        text-align: left;
+      }
+      th { 
+        background: #f8f9fa; 
+        font-weight: 600;
+        color: #333;
+        text-align: center;
+      }
+      tr:nth-child(even) { background: #f9f9f9; }
+      tr:hover { background: #f5f5f5; }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Red Teaming Dashboard</h1>
+      <div class="metrics-container">
+        <!-- Caja 1: Total PASS -->
+        <div class="metric-box pass-box">
+          <h2>Total PASS <div class="metric-icon">✓</div></h2>
+          <div id="totalPass" class="counter">0</div>
+        </div>
+        <!-- Caja 2: Total FAIL -->
+        <div class="metric-box fail-box">
+          <h2>Total FAIL <div class="metric-icon">✗</div></h2>
+          <div id="totalFail" class="counter">0</div>
+        </div>
+        <!-- Caja 3: Global Results with horizontal bars -->
+        <div class="metric-box ranking-box">
+          <h2>Global Results</h2>
+          <!-- Barra de PASS -->
+          <div class="metric-row">
+            <span class="metric-label" id="passLabel">PASS: 0%</span>
+            <div class="progress-bar">
+              <div class="progress progress-pass" id="passBar" style="width: 0%;"></div>
+            </div>
+          </div>
+          <!-- Barra de FAIL -->
+          <div class="metric-row">
+            <span class="metric-label" id="failLabel">FAIL: 0%</span>
+            <div class="progress-bar">
+              <div class="progress progress-fail" id="failBar" style="width: 0%;"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <h2>Stats for each User</h2>
+      <table id="userClassification">
+        <thead>
+          <tr>
+            <th>User</th>
+            <th>PASS</th>
+            <th>FAIL Low</th>
+            <th>FAIL Medium</th>
+            <th>FAIL High</th>
+            <th>FAIL Critical</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+      <div class="charts-row">
+        <div class="chart-wrapper">
+          <h3 class="chart-title">PASS/FAIL for User</h3>
+          <canvas id="userPassFailChart"></canvas>
+        </div>
+        <div class="chart-wrapper">
+          <h3 class="chart-title">Tests for each Model and User</h3>
+          <canvas id="userModelChart"></canvas>
+        </div>
+      </div>
+      <div class="charts-row">
+        <div class="chart-wrapper">
+          <h3 class="chart-title">Safety Categories</h3>
+          <canvas id="categoriesChart"></canvas>
+        </div>
+        <div class="chart-wrapper">
+          <h3 class="chart-title">Languages</h3>
+          <canvas id="LanguageScoreChart"></canvas>
+        </div>
+      </div>
+      <!-- New row with the two additional charts -->
+      <div class="charts-row">
+        <div class="chart-wrapper">
+          <h3 class="chart-title">PASS/FAIL for Model</h3>
+          <canvas id="modelPassFailChart"></canvas>
+        </div>
+        <div class="chart-wrapper">
+          <h3 class="chart-title">FAIL per Category and Model</h3>
+          <canvas id="categoryModelFailChart"></canvas>
+        </div>
+      </div>
+    </div>
+    <script>
+      // Global variables
+      let charts = {};
+      const MODEL_COLORS = {
+        'chatgpt': '#00A67E',
+        'gpt4-o': '#4A90E2',
+        'claude': '#7B61FF',
+        'qwen': '#1EA362',
+        'llama': '#FF6B6B',
+        'mistral': '#FFB347',
+        'default': '#999999'
+      };
+      const LANGUAGE_COLORS = {
+        'spanish': '#00A67E',
+        'chinese': '#4A90E2',
+        'english': '#7B61FF'
+      };
+
+      // Determines the failure level based on notes
+      function getFailLevel(notes) {
+        if (!notes) return 'low';
+        const lower = notes.toLowerCase();
+        if(lower.includes('critical')) return 'critical';
+        if(lower.includes('high')) return 'high';
+        if(lower.includes('medium')) return 'medium';
+        return 'low';
+      }
+      // Returns points based on failure level
+      function getFailPoints(level) {
+        const points = { low: 1, medium: 2, high: 3, critical: 4 };
+        return points[level] || 1;
+      }
+
+      // Improved data processing with a plain for loop and caching
+      function processData(data) {
+        const result = {
+          totalPass: 0,
+          totalFail: 0,
+          users: {},
+          categories: {},
+          models: {},
+          languages: {},
+          categoryModels: {}
+        };
+        const len = data.length;
+        for (let i = 0; i < len; i++) {
+          const row = data[i];
+          if(row.length < 8) continue;
+
+          const user     = row[1],
+                model    = row[2],
+                lang     = row[3],
+                category = row[4],
+                resStr   = (row[6] || '').toLowerCase(),
+                notes    = row[7],
+                failLevel= getFailLevel(notes),
+                failKey  = 'fail' + failLevel.charAt(0).toUpperCase() + failLevel.slice(1);
+
+          // Initialize user object if missing
+          let u = result.users[user];
+          if (!u) {
+            u = result.users[user] = {
+              pass: 0,
+              failLow: 0,
+              failMedium: 0,
+              failHigh: 0,
+              failCritical: 0,
+              score: 0,
+              models: {}
+            };
+          }
+          u.models[model] = (u.models[model] || 0) + 1;
+
+          // Initialize category & language
+          if(!result.categories[category]) result.categories[category] = { pass: 0, fail: 0 };
+          if(!result.languages[lang]) result.languages[lang] = { pass: 0, fail: 0 };
+
+          // Global model aggregation
+          if(!result.models[model]) result.models[model] = { pass: 0, fail: 0 };
+
+          // Category-Model FAIL aggregation container
+          if(!result.categoryModels[category]) result.categoryModels[category] = {};
+
+          if(resStr === 'pass') {
+            result.totalPass++;
+            u.pass++;
+            u.score += 1;
+            result.categories[category].pass++;
+            result.languages[lang].pass++;
+            result.models[model].pass++;
+          } else if(resStr === 'fail') {
+            result.totalFail++;
+            u[failKey]++;
+            u.score += getFailPoints(failLevel);
+            result.categories[category].fail++;
+            result.languages[lang].fail++;
+            result.models[model].fail++;
+            result.categoryModels[category][model] = (result.categoryModels[category][model] || 0) + 1;
+          }
+        }
+        return result;
+      }
+
+      // Cache frequently accessed DOM elements for UI updates
+      const uiElements = {
+        totalPass: document.getElementById('totalPass'),
+        totalFail: document.getElementById('totalFail'),
+        passLabel: document.getElementById('passLabel'),
+        failLabel: document.getElementById('failLabel'),
+        passBar: document.getElementById('passBar'),
+        failBar: document.getElementById('failBar'),
+        tableBody: document.querySelector('#userClassification tbody')
+      };
+
+      function updateUI({ totalPass, totalFail, users }) {
+        const total = totalPass + totalFail || 1;
+        const passPercent = ((totalPass / total) * 100).toFixed(2);
+        const failPercent = ((totalFail / total) * 100).toFixed(2);
+        
+        uiElements.totalPass.textContent = totalPass;
+        uiElements.totalFail.textContent = totalFail;
+        uiElements.passLabel.textContent = `PASS: ${passPercent}%`;
+        uiElements.failLabel.textContent = `FAIL: ${failPercent}%`;
+        uiElements.passBar.style.width = passPercent + '%';
+        uiElements.failBar.style.width = failPercent + '%';
+
+        const sortedUsers = Object.entries(users)
+          .sort(([, a], [, b]) => {
+            const sumA = a.pass + a.failLow + a.failMedium + a.failHigh + a.failCritical;
+            const sumB = b.pass + b.failLow + b.failMedium + b.failHigh + b.failCritical;
+            return sumB - sumA;
+          });
+        uiElements.tableBody.innerHTML = sortedUsers.map(([user, data]) => `
+          <tr>
+            <td class="td2">${user}</td>
+            <td>${data.pass}</td>
+            <td>${data.failLow}</td>
+            <td>${data.failMedium}</td>
+            <td>${data.failHigh}</td>
+            <td>${data.failCritical}</td>
+          </tr>
+        `).join('');
+      }
+
+      function updateCharts(data) {
+        const users = Object.keys(data.users);
+        const languages = Object.keys(data.languages);
+        // Language Score Chart (as provided)
+        const maxLang = Math.max(...Object.values(data.languages).map(lang => Math.max(lang.pass, lang.fail)));
+        updateOrCreateChart('LanguageScoreChart', {
+          type: 'bar',
+          data: {
+            labels: languages,
+            datasets: [
+              { label: 'PASS', data: languages.map(lang => data.languages[lang].pass), backgroundColor: '#75b798' },
+              { label: 'FAIL', data: languages.map(lang => data.languages[lang].fail), backgroundColor: '#e35d6a' }
+            ]
+          },
+          options: {
+            animation: false,
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: true } },
+            scales: { y: { beginAtZero: true, max: maxLang + 2 } }
+          }
+        });
+        // PASS/FAIL for User Chart
+        updateOrCreateChart('userPassFailChart', {
+          type: 'bar',
+          data: {
+            labels: users,
+            datasets: [
+              { label: 'PASS', data: users.map(user => data.users[user].pass), backgroundColor: '#75b798' },
+              { label: 'FAIL', data: users.map(user => data.users[user].failLow + data.users[user].failMedium + data.users[user].failHigh + data.users[user].failCritical), backgroundColor: '#e35d6a' }
+            ]
+          },
+          options: {
+            animation: false,
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: { x: { stacked: true }, y: { stacked: true, beginAtZero: true } }
+          }
+        });
+        // Tests for each Model and User Chart
+        const allModels = [...new Set(Object.values(data.users).flatMap(user => Object.keys(user.models)))];
+        const maxModelValue = Math.max(...allModels.map(model => Math.max(...users.map(user => data.users[user].models[model] || 0))), 1);
+        updateOrCreateChart('userModelChart', {
+          type: 'bar',
+          data: {
+            labels: users,
+            datasets: allModels.map(model => ({
+              label: model,
+              data: users.map(user => data.users[user].models[model] || 0),
+              backgroundColor: MODEL_COLORS[model.toLowerCase()] || MODEL_COLORS.default
+            }))
+          },
+          options: {
+            animation: false,
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: { x: { stacked: true }, y: { stacked: true, beginAtZero: true, max: maxModelValue + 2 } }
+          }
+        });
+        // Safety Categories Chart
+        const categories = Object.keys(data.categories);
+        const maxCatValue = Math.max(...Object.values(data.categories).map(cat => Math.max(cat.pass, cat.fail)));
+        updateOrCreateChart('categoriesChart', {
+          type: 'bar',
+          data: {
+            labels: categories,
+            datasets: [
+              { label: 'PASS', data: categories.map(cat => data.categories[cat].pass), backgroundColor: '#75b798' },
+              { label: 'FAIL', data: categories.map(cat => data.categories[cat].fail), backgroundColor: '#e35d6a' }
+            ]
+          },
+          options: {
+            animation: false,
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: { y: { beginAtZero: true, max: maxCatValue + 2 } }
+          }
+        });
+        // PASS/FAIL for Model Chart (grouped vertical bars, similar to Languages)
+        const modelNames = Object.keys(data.models);
+        const maxModelValue2 = Math.max(...modelNames.map(m => Math.max(data.models[m].pass, data.models[m].fail)));
+        updateOrCreateChart('modelPassFailChart', {
+          type: 'bar',
+          data: {
+            labels: modelNames,
+            datasets: [
+              { label: 'PASS', data: modelNames.map(m => data.models[m].pass), backgroundColor: '#28a745' },
+              { label: 'FAIL', data: modelNames.map(m => data.models[m].fail), backgroundColor: '#dc3545' }
+            ]
+          },
+          options: {
+            animation: false,
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: true } },
+            scales: { y: { beginAtZero: true, max: maxModelValue2 + 2 } }
+          }
+        });
+        // FAIL per Category and Model Chart (grouped vertical bars)
+        const categoryNames = Object.keys(data.categoryModels);
+        let modelSet = new Set();
+        categoryNames.forEach(cat => {
+          Object.keys(data.categoryModels[cat]).forEach(model => modelSet.add(model));
+        });
+        const allCatModels = Array.from(modelSet);
+        const maxIndividualFail = Math.max(...categoryNames.map(cat => Math.max(...allCatModels.map(model => data.categoryModels[cat][model] || 0))), 0);
+        const datasets = allCatModels.map(model => ({
+          label: model,
+          data: categoryNames.map(cat => data.categoryModels[cat][model] || 0),
+          backgroundColor: MODEL_COLORS[model.toLowerCase()] || MODEL_COLORS.default
+        }));
+        updateOrCreateChart('categoryModelFailChart', {
+          type: 'bar',
+          data: {
+            labels: categoryNames,
+            datasets: datasets
+          },
+          options: {
+            animation: false,
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: { legend: { display: true } },
+            scales: { x: { stacked: false }, y: { beginAtZero: true, max: maxIndividualFail + 2 } }
+          }
+        });
+      }
+
+      function updateOrCreateChart(id, config) {
+        if (charts[id]) charts[id].destroy();
+        charts[id] = new Chart(document.getElementById(id), config);
+      }
+
+      async function refreshData() {
+        try {
+          const response = await fetch("https://script.google.com/a/macros/mondragon.edu/s/AKfycbwmjfrXu08q-jzHROM99LUV6hO7egw4Dr6zAzWihd-OTZfS9LkmQc9TEEBu4DOqBhMTqw/exec?getData=true");
+          const rawData = await response.json();
+          if(rawData.error) throw new Error(rawData.error);
+          const processed = processData(rawData);
+          updateUI(processed);
+          updateCharts(processed);
+        } catch(error) {
+          console.error('Error:', error);
+        }
+      }
+
+      document.addEventListener('DOMContentLoaded', () => {
+        refreshData();
+        setInterval(refreshData, 1000);
+      });
+    </script>
+  </body>
+</html>
