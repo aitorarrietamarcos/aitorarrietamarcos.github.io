@@ -505,24 +505,68 @@
         if (charts[id]) charts[id].destroy();
         charts[id] = new Chart(document.getElementById(id), config);
       }
+      // 1. Replace your Spreadsheet ID here
+      const SPREADSHEET_ID = '1ThVQV78RDtQdh1lQ2IBMxCEV6pstHJaG3Upp5ObHSYQ';
+      // 2. Specify the Sheet Name
+      const SHEET_NAME = 'Respuestas';
 
       async function refreshData() {
         try {
-          const response = await fetch("?getData=true");
-          const rawData = await response.json();
-          if(rawData.error) throw new Error(rawData.error);
+          // Construct the URL to export the specific sheet as CSV
+          const url = `https://docs.google.com/spreadsheets/d/${SPREADSHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(SHEET_NAME)}`;
+          
+          const response = await fetch(url);
+          const csvText = await response.text();
+          
+          // Parse CSV text into an array of arrays
+          const rawData = parseCSV(csvText);
+          
+          // Remove the header row
+          if (rawData.length > 0) rawData.shift();
+
           const processed = processData(rawData);
           updateUI(processed);
           updateCharts(processed);
-        } catch(error) {
-          console.error('Error:', error);
+          
+          console.log('Data updated at: ' + new Date().toLocaleTimeString());
+        } catch (error) {
+          console.error('Error fetching data directly:', error);
         }
       }
 
+      // Helper function to handle CSV parsing (handles commas and quotes)
+      function parseCSV(text) {
+        const lines = text.split('\n');
+        return lines.map(line => {
+          // This regex splits by comma but ignores commas inside quotes
+          const re = /,(?=(?:(?:[^"]*"){2})*[^"]*$)/g;
+          return line.split(re).map(cell => cell.replace(/^"|"$/g, '').trim());
+        });
+      }
+
+      // Keep your DOMContentLoaded listener but I recommend increasing the interval
       document.addEventListener('DOMContentLoaded', () => {
         refreshData();
-        setInterval(refreshData, 30000);
+        // Changed to 30 seconds to avoid browser/network throttling
+        setInterval(refreshData, 3000); 
       });
+      //async function refreshData() {
+      //  try {
+      //    const response = await fetch("https://script.google.com/a/macros/mondragon.edu/s/AKfycbwmjfrXu08q-jzHROM99LUV6hO7egw4Dr6zAzWihd-OTZfS9LkmQc9TEEBu4DOqBhMTqw/exec?getData=true");
+      //    const rawData = await response.json();
+      //    if(rawData.error) throw new Error(rawData.error);
+      //    const processed = processData(rawData);
+      //    updateUI(processed);
+      //    updateCharts(processed);
+      //  } catch(error) {
+      //    console.error('Error:', error);
+      //  }
+      //}
+
+      //document.addEventListener('DOMContentLoaded', () => {
+      //  refreshData();
+      //  setInterval(refreshData, 1000);
+      //});
     </script>
   </body>
 </html>
