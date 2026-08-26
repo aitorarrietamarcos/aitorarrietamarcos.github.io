@@ -1,124 +1,56 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Papers | Aitor Arrieta</title>
-  <!-- Bootstrap CSS -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Font Awesome for icons (optional) -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" 
-        integrity="sha512-Fo3rlrZj/kTc3YfIXej6fXJ1qMbxI6nU5uf0PoH+o1UQeGf+fKQhPObK6+w6psJ+j6uNTK5flx4o+RStR5K0bg=="
-        crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <style>
-    /* Dark theme custom styles */
-    body {
-      background-color: #121212;
-      color: #e0e0e0;
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      padding-top: 80px;
-    }
-    a { color: #bb86fc; }
-    a:hover { color: #e0e0e0; text-decoration: underline; }
-    .navbar, footer {
-      background-color: #1f1f1f;
-    }
-    .navbar-brand, .nav-link {
-      font-weight: 500;
-    }
-    .section-title {
-      margin: 40px 0 20px;
-      text-align: center;
-      color: #fff;
-    }
-    .paper-year {
-      font-size: 1.5rem;
-      margin-top: 30px;
-      border-bottom: 1px solid #333;
-      padding-bottom: 10px;
-      color: #bb86fc;
-    }
-    .paper-list li {
-      margin-bottom: 15px;
-    }
-    .paper-list a {
-      color: #bb86fc;
-    }
-    .paper-list a:hover {
-      color: #e0e0e0;
-    }
-    .content-container {
-      max-width: 900px;
-      margin: auto;
-      padding: 20px;
-    }
-    footer {
-      padding: 20px 0;
-      text-align: center;
-      font-size: 0.9rem;
-      color: #888;
-      margin-top: 40px;
-    }
-  </style>
+  <meta name="description" content="Selected publications, books, tutorials, and talks by Aitor Arrieta in software engineering, software testing, cyber-physical systems, and trustworthy AI.">
+  <meta name="theme-color" content="#eaf4f1">
+  <title>Publications — Aitor Arrieta</title>
+  <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <!-- Navigation Bar -->
-  <nav class="navbar navbar-expand-lg navbar-dark fixed-top shadow-sm">
-    <div class="container">
-      <a class="navbar-brand" href="index.html">Aitor Arrieta</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navMenu">
-        <ul class="navbar-nav ms-auto">
-          <li class="nav-item"><a class="nav-link" href="index.html#about">About</a></li>
-          <li class="nav-item"><a class="nav-link" href="index.html#news">News</a></li>
-          <li class="nav-item"><a class="nav-link active" href="papers.html">Papers</a></li>
-          <li class="nav-item"><a class="nav-link" href="index.html#projects">Projects</a></li>
-          <li class="nav-item"><a class="nav-link" href="index.html#lecturing">Lecturing</a></li>
-          <li class="nav-item"><a class="nav-link" href="index.html#contact">Contact</a></li>
-        </ul>
-      </div>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
+    <div class="container nav-shell">
+      <a class="brand" href="index.html" aria-label="Aitor Arrieta, home"><span class="brand-mark" aria-hidden="true">AA</span><span>Aitor Arrieta</span></a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="site-navigation" aria-label="Toggle navigation"><span aria-hidden="true"></span></button>
+      <nav class="site-nav" id="site-navigation" aria-label="Main navigation" data-open="false">
+        <a href="index.html#about">About</a><a href="projects.html">Research</a><a href="people.html">People</a><a href="papers.html" aria-current="page">Publications</a><a href="lecturing.html">Teaching</a><a href="service.html">Service</a><a href="index.html#contact">Contact</a>
+      </nav>
     </div>
-  </nav>
+  </header>
 
-  <!-- Papers Content -->
-  <div class="content-container">
-    <h1 class="section-title">Papers</h1>
-    <p>
-      This list is likely to be not updated. You can also find my papers on 
-      <a href="https://scholar.google.lu/citations?user=ft06jF4AAAAJ&hl=es&oi=ao" target="_blank">Google Scholar</a> and 
-      in <a href="https://dblp.org/pid/78/8234.html" target="_blank">DBLP</a>. Here is the list of some of them:
-    </p>
+  <main id="main-content">
+    <header class="page-hero">
+      <div class="container">
+        <span class="eyebrow">Publications</span>
+        <h1>Research in testing and dependable software.</h1>
+        <p>Selected journal articles, conference papers, books, tutorials, and talks covering cyber-physical systems, software testing, and trustworthy AI.</p>
+      </div>
+    </header>
+    <div class="container page-content">
+      <div class="paper-toolbar">
+        <p>This selected list may not always be fully up to date. For the latest publication record, please use the academic indexes.</p>
+        <div class="button-row">
+          <a class="button" href="https://scholar.google.lu/citations?user=ft06jF4AAAAJ&amp;hl=en" target="_blank" rel="noopener">Google Scholar <span aria-hidden="true">↗</span></a>
+          <a class="button secondary" href="https://dblp.org/pid/78/8234.html" target="_blank" rel="noopener">DBLP <span aria-hidden="true">↗</span></a>
+        </div>
+      </div>
 
     <!-- 2026 -->
     <div class="paper-year">2026</div>
-    <ul class="paper-list list-unstyled">
-       <li>
-          Arrieta, A. (2026). "An Empirical Evaluation of White-box and Black-box Test Case Prioritization Techniques in CPSs Modeled in Simulink", In Empirical Software Enginering Journal (EMSE) (Accepted for publication) [<a href="/assets/EMSE_WBTP.pdf" target="_blank">PDF</a>]
-
-      <li>
-      <li>
-          Valle, P., Segura, S., Ali, S., & Arrieta, A. (2026). "Metamorphic Testing of Vision-Language Action-Enabled Robots", In 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), Research Track (Accepted for publication) [<a href="/assets/Metamorphic_vla.pdf" target="_blank">PDF</a>]
-
-      <li>
-          Panichella, S., Arcaini, P., Cohen, M. B., & Arrieta, A. (Eds.). (2026). Roadmap for DevOps in cyber-physical systems: Challenges and future directions (Communications of Shonan Meetings). Springer Singapore. [<a href="https://doi.org/10.1007/978-981-95-1786-2" target="_blank">Link to the book</a>]
-      </li>
-      <li>
-            Romero-Arjona, M., Parejo, J. A., Alonso, J. C., Sánchez, A. B., Arrieta, A., & Segura, S. (2025). Meta-Fair: AI-Assisted Fairness Testing of Large Language Models. In Information and Software Technology Journal (IST) (Accepted for publication)
-      </li>
-      <li>
-            Wu, J., Lu, C., Arrieta, A., Ali & S. Peyrucain, T. (2026). “Vision Language Model-based Testing of Industrial Autonomous Mobile Robots”, In 48th IEEE/ACM International Conference on Software Engineering (ICSE), Software Engineering In Practice (SEIP) Track (Accepted for publication)
-      </li>
-      <li>
-            Arrieta, A., Valle, P., & Ali, S. (2026). “FlowRepair: Search-based Automated Program Repair of CPS Controllers Modeled in Simulink-Stateflow”, In Information and Software Technology Journal (IST), 108010  [<a href="https://pdf.sciencedirectassets.com/271539/1-s2.0-S0950584926X00027/1-s2.0-S0950584925003490/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEDcaCXVzLWVhc3QtMSJHMEUCIFyGzNxID8GHzU6Igk6JoSQ6oAKL7H1DGOe3%2FS5hWcNgAiEA%2Fq7%2FPg%2BQSgENvy4%2F6P0exd7Su3OwPe%2FgWSLSf%2BuyntAqsgUIABAFGgwwNTkwMDM1NDY4NjUiDNC4YagkT6OJSuTJRyqPBdrzkW%2BtX5Kf05JynXi4m4Ep0YGjWELhqcvsVLVLurb0j48qO1FB5jCdCOxpfyL0NTzhY3U0XpWnbq%2FS3pHjnw7nQtIOejtvoyV6GN9%2F0%2Fq4A0xwcQOZyIlHpywkFEh%2BS0T2nhahPFrI%2Bzc4BDQ519jwYGfoi1Km3tOwanrSc3%2BU7UEWsE%2FTt%2F73f0JLgtp5OLJQD5SR6cc0xncBiOZXUJisEAcIMZgWyBiUqqjl%2F%2BzhRyD9hmgCRmz1slrI8InpDpp5WMbs44tc0Ku7VmzY4oQOBeMgMwT08IskTpg7AjJzRTe%2BfrlbqQozi0yPOWv1hKlleLyAkLGQA4yccvsJmSwNSNsgAH9%2FouIU59QOCJa%2B9Jl14QisZc1gwPGQTBOtVqwqIzD6K1SkuyCvmsp%2FRPkITiF2CUttZn7710R53jT%2F2nD68PWVSIIH7ohbM%2F4M0otS7LBp0WRDTOjAVAshpaGZCwrSjWZs3zyvmuOO8NPHc%2Bc7EL41Nvf8wXz%2FrXtGkOo6%2FlmtVdOJANxjQwkJJbv%2F8GRwp0itrX7ouBx3YDUQeAXt9mijyEOS1%2BuqsCVDLtL8yH7CkzUYHyE74sqsdSNR7%2FAr8bdR42medGckYGofPNSnJPOlwouJ0j5Yo3mDe7OazTGuEgn6bmpbWMBxInjaltLr5Pr2CU3V3C2yvMOslQTqdUGdo51joV%2FNieFV5iTVFTOYb92mnlhl4388cgqXOkiq6cSvB8OgYaB%2BgfjUR4hQSRfAjZ%2FiN3B4CENwsC57%2FFKvouXT793m3okjTTMLffXRc%2F8faZgBI3YC%2FCGTLSwJfLDhlppp2S%2B%2BaAwTn5%2F7LW0AS3019VAPsWYz6vhalmdk4RPA%2BV%2BodX9UM5wwxrnAzAY6sQHoEcPAap42zOOE7q5ict2XQ99seAQS67AuTug%2FDWyhAxMc77NPgulMiA0Ks7OmCRMokEua9CbZo7j4d7hIogSLs3QSvKiFKyj1WzpRYw17Zw2IqvRwmaV2bMfo438uNzIGRkmkQ7iNrVEHguvQUgTMTXHnsAANAd5GKFhwED%2BariQLSBW8mQrnvDG4V%2F2wz%2FrIf3fgUKZ5PY89z6v0imD8G8cbG5857unHxm00MtTxiQE%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260214T072806Z&X-Amz-SignedHeaders=host&X-Amz-Expires=299&X-Amz-Credential=ASIAQ3PHCVTYWWCQEY3G%2F20260214%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=91a445c2bf647d24faac9010221222699935ca9a21298ab34e6e4576fb005731&hash=d2549d0607632ed06edca715aa0c18b5ce2de4ddbbd4384c3cf48332a5e706ad&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0950584925003490&tid=spdf-918c6bd0-88de-41c8-ae5c-324390a3c00c&sid=2d5230a610c1104afc28b4a159b9bebed574gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=03125e020b01075a0257&rr=9cdad8c4fe4593dd&cc=es" target="_blank">PDF</a>]
-      </li>
+    <ul class="paper-list">
+      <li>Arrieta, A. (2026). “An Empirical Evaluation of White-box and Black-box Test Case Prioritization Techniques in CPSs Modeled in Simulink.” <em>Empirical Software Engineering</em> (accepted). [<a href="assets/EMSE_WBTP.pdf" target="_blank" rel="noopener">PDF</a>]</li>
+      <li>Valle, P., Segura, S., Ali, S., &amp; Arrieta, A. (2026). “Metamorphic Testing of Vision-Language Action-Enabled Robots.” 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), Research Track (accepted). [<a href="assets/Metamorphic_vla.pdf" target="_blank" rel="noopener">PDF</a>]</li>
+      <li>Panichella, S., Arcaini, P., Cohen, M. B., &amp; Arrieta, A. (Eds.). (2026). <em>Roadmap for DevOps in Cyber-Physical Systems: Challenges and Future Directions</em>. Springer Singapore. [<a href="https://doi.org/10.1007/978-981-95-1786-2" target="_blank" rel="noopener">Book</a>]</li>
+      <li>Romero-Arjona, M., Parejo, J. A., Alonso, J. C., Sánchez, A. B., Arrieta, A., &amp; Segura, S. (2025). “Meta-Fair: AI-Assisted Fairness Testing of Large Language Models.” <em>Information and Software Technology</em> (accepted).</li>
+      <li>Wu, J., Lu, C., Arrieta, A., Ali, S., &amp; Peyrucain, T. (2026). “Vision Language Model-based Testing of Industrial Autonomous Mobile Robots.” 48th IEEE/ACM International Conference on Software Engineering (ICSE), Software Engineering in Practice Track (accepted).</li>
+      <li>Arrieta, A., Valle, P., &amp; Ali, S. (2026). “FlowRepair: Search-based Automated Program Repair of CPS Controllers Modeled in Simulink-Stateflow.” <em>Information and Software Technology</em>, 108010. [<a href="https://www.sciencedirect.com/science/article/pii/S0950584925003490" target="_blank" rel="noopener">Article</a>]</li>
     </ul>
 
     <!-- 2025 -->
     <div class="paper-year">2025</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         Valle, P., Riccio, V., Arrieta, A., Tonella, P., Arratibel, M. “An Industrial Experience Report on Applying Search-based Boundary Input Generation to Cyber-Physical Systems”, In Empirical Software Engineering Journal (EMSE) 30(4): 112 (2025)
       </li>
@@ -133,7 +65,7 @@
         Ugarte, M., Valle, P., Parejo, J.A., Segura, S., Arrieta, A. "Astral: Automated safety testing of large language models" in the 6th ACM/IEEE International Conference on Automation of Software Test (AST 2025)
       </li>
       <li>
-        Nylænder, K., Arrieta, A., Ali, S., & Arcaini, P. (2025, July). Search-based Generation of Waypoints for Triggering Self-Adaptations in Maritime Autonomous Vessels. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 1453-1461).
+        Nylænder, K., Arrieta, A., Ali, S., &amp; Arcaini, P. (2025, July). Search-based Generation of Waypoints for Triggering Self-Adaptations in Maritime Autonomous Vessels. In Proceedings of the Genetic and Evolutionary Computation Conference (pp. 1453-1461).
       </li>
       <li>
         Miguel Romero-Arjona, Pablo Valle, Juan C Alonso, Ana B Sánchez, Miriam Ugarte, Antonia Cazalilla, Vicente Cambrón, José A Parejo, Aitor Arrieta, Sergio Segura (2025). Red teaming contemporary ai models: Insights from spanish and basque perspectives. Sistedes 2025
@@ -142,7 +74,7 @@
 
     <!-- 2024 -->
     <div class="paper-year">2024</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         Ayerdi, J., Terragni, V., Jahangirova, G., Arrieta, A., Tonella, P. “GenMorph: Automatically Generating Metamorphic Relations via Genetic Programming”, In IEEE Transactions on Software Engineering, 2024 (Accepted for publication)
         [<a href="https://arxiv.org/pdf/2312.15302" target="_blank">PDF</a>]
@@ -152,29 +84,29 @@
         [<a href="https://arxiv.org/pdf/2310.07414" target="_blank">PDF</a>]
       </li>
       <li>
-        Aldalur, I., Arrieta, A., Agirre, A., Sagardui, G., & Arratibel, M. (2024). A microservice-based framework for multi-level testing of cyber-physical systems. Software Quality Journal, 32(1), 193-223.
+        Aldalur, I., Arrieta, A., Agirre, A., Sagardui, G., &amp; Arratibel, M. (2024). A microservice-based framework for multi-level testing of cyber-physical systems. Software Quality Journal, 32(1), 193-223.
       </li>
       <li>
-        Wu, J., Lu, C., Arrieta, A., Yue, T., & Ali, S. (2024). Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models. In First Special Event on AI Foundation Models and Software Engineering
+        Wu, J., Lu, C., Arrieta, A., Yue, T., &amp; Ali, S. (2024). Reality Bites: Assessing the Realism of Driving Scenarios with Large Language Models. In First Special Event on AI Foundation Models and Software Engineering
         [<a href="https://arxiv.org/pdf/2403.09906" target="_blank">PDF</a>]
       </li>
       <li>
-        Wang, X., Ali, S., Arrieta, A., Arcaini, P., & Arratibel, M. (2024). Application of Quantum Extreme Learning Machines for QoS Prediction of Elevators' Software in an Industrial Context. In Proceedings of the 32nd ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+        Wang, X., Ali, S., Arrieta, A., Arcaini, P., &amp; Arratibel, M. (2024). Application of Quantum Extreme Learning Machines for QoS Prediction of Elevators' Software in an Industrial Context. In Proceedings of the 32nd ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
         [<a href="https://arxiv.org/pdf/2402.12777" target="_blank">PDF</a>]
       </li>
     </ul>
 
     <!-- 2023 -->
     <div class="paper-year">2023</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
-        Arrieta, A., Valle, P., Agirre, J.A., & Sagardui, G. “Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection”. In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, 32 (1), 1-47.
+        Arrieta, A., Valle, P., Agirre, J.A., &amp; Sagardui, G. “Some Seeds are Strong: Seeding Strategies for Search-based Test Case Selection”. In ACM Transactions on Software Engineering and Methodology (TOSEM), 2022, 32 (1), 1-47.
       </li>
       <li>
         Han, L., Ali, S., Yue, T., Arrieta, A., Arratibel, M. “Uncertainty-aware Robustness Assessment of Industrial Elevator Systems”. In ACM Transactions on Software Engineering and Methodology (TOSEM), 2023, 32(4), 1-51.
       </li>
       <li>
-        Ayerdi, J., Valle, P., Segura, S., Arrieta, A., Sagardui, G. & Arratibel, M. “Performance-Driven Metamorphic Testing of Cyber-Physical Systems”. In IEEE Transactions on Reliability, 2023, 72(2): 827-845.
+        Ayerdi, J., Valle, P., Segura, S., Arrieta, A., Sagardui, G. &amp; Arratibel, M. “Performance-Driven Metamorphic Testing of Cyber-Physical Systems”. In IEEE Transactions on Reliability, 2023, 72(2): 827-845.
       </li>
       <li>
         Michelton, G.K., Martinez, J., Sotto-Mayor, B., Arrieta, A., Assuncao, W.K.G., Abreu, R., Egyed, A. “Spectrum-based feature localization for families of systems”, Journal of Systems and Software, 2023, 195, 111532.
@@ -194,21 +126,21 @@
       <li>
         Arrieta, A., Illarramendi, M. “A Novel Mutation Operator for Search-based Test Case Selection”. In International Symposium on Search Based Software Engineering (pp. 84-98). Cham: Springer Nature Switzerland.
         <br>
-        Arrieta, A., & Illarramendi, M. (2023, December). A Novel Mutation Operator for Search-Based Test Case Selection. In International Symposium on Search Based Software Engineering (pp. 84-98). Cham: Springer Nature Switzerland. <strong>Best Paper Award</strong>
+        Arrieta, A., &amp; Illarramendi, M. (2023, December). A Novel Mutation Operator for Search-Based Test Case Selection. In International Symposium on Search Based Software Engineering (pp. 84-98). Cham: Springer Nature Switzerland. <strong>Best Paper Award</strong>
       </li>
     </ul>
 
     <!-- 2022 -->
     <div class="paper-year">2022</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
-        Garciandia, A., Arrieta, A., Ayerdi, A., Illarramendi, M., Agirre, A., Sagardui, G. & Arratibe, M. “Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms”. In Journal of Software: Evolution and Process, 2022, (Accepted for publication).
+        Garciandia, A., Arrieta, A., Ayerdi, A., Illarramendi, M., Agirre, A., Sagardui, G. &amp; Arratibe, M. “Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: an Industrial Case Study on Elevators Dispatching Algorithms”. In Journal of Software: Evolution and Process, 2022, (Accepted for publication).
       </li>
       <li>
         Han, L., Yue, T., Ali, S., Arrieta, A., Arratibel, M. “Are Elevator Software Robust Against Uncertainties? Results and Experiences from an Industrial Case Study”. In Proceedings of the 30th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering (pp. 1331-1342).
       </li>
       <li>
-        Ayerdi, J., Arrieta, A., Pobee, E., & Arratibel, M. “Multi-Objective Metamorphic Test Case Selection: an Industrial Case Study”. In 2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE) (pp. 541-552). IEEE.
+        Ayerdi, J., Arrieta, A., Pobee, E., &amp; Arratibel, M. “Multi-Objective Metamorphic Test Case Selection: an Industrial Case Study”. In 2022 IEEE 33rd International Symposium on Software Reliability Engineering (ISSRE) (pp. 541-552). IEEE.
       </li>
       <li>
         Arrieta, A. “On the Cost-Effectiveness of Composite Metamorphic Relations for Testing Deep Learning Systems”, at Metamorphic Testing Workshop (MET2022), 2022, pp. 42-47.
@@ -229,9 +161,9 @@
 
     <!-- 2021 -->
     <div class="paper-year">2021</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
-        Markiegi, U., Arrieta, A., Etxeberria, L., & Sagardui, G. “Dynamic test prioritization of product lines: An application on configurable simulation models”. In Software Quality Journal (2021), 29(4), 943-988.
+        Markiegi, U., Arrieta, A., Etxeberria, L., &amp; Sagardui, G. “Dynamic test prioritization of product lines: An application on configurable simulation models”. In Software Quality Journal (2021), 29(4), 943-988.
       </li>
       <li>
         Galarraga, J., Arrieta, A., Ali, S., Sagardui, G., Arratibel, M. “Genetic Algorithm-based Testing of Industrial Elevators under Passenger Uncertainty”. In 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW) (pp. 353-358). IEEE.
@@ -243,42 +175,42 @@
         Michelton, G.K., Sotto-Mayor, B., Martinez, J., Arrieta, A., Abreu, R., Assuncao, W.K.G. “Spectrum-Based Feature Localization: A Case Study using ArgoUML”. In 2021 Software Product Line Conference (SPLC) – Challenge track.
       </li>
       <li>
-        Arrieta, A., Ayerdi, J., Illarramendi, I., Agirre, A., Sagardui, G. & Arratibe, M. “Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms”. In 2021 2nd ACM/IEEE International Conference on Automation of Software Test (AST), 2021.
+        Arrieta, A., Ayerdi, J., Illarramendi, I., Agirre, A., Sagardui, G. &amp; Arratibe, M. “Using Machine Learning to Build Test Oracles: an Industrial Case Study of Elevators Dispatching Algorithms”. In 2021 2nd ACM/IEEE International Conference on Automation of Software Test (AST), 2021.
       </li>
       <li>
-        Gartziandia, A., Ayerdi, J., Arrieta, A., Ali, S., Yue, T., Agirre, A., Sagardui, G. & Arratibel, M. “Microservices for Continuous Deployment, Monitoring and Validation in Cyber-Physical Systems: an Industrial Case Study for Elevators Systems”. In 2021 IEEE 18th International Conference on Software Architecture Companion (ICSA-C) (pp. 46-53). IEEE.
+        Gartziandia, A., Ayerdi, J., Arrieta, A., Ali, S., Yue, T., Agirre, A., Sagardui, G. &amp; Arratibel, M. “Microservices for Continuous Deployment, Monitoring and Validation in Cyber-Physical Systems: an Industrial Case Study for Elevators Systems”. In 2021 IEEE 18th International Conference on Software Architecture Companion (ICSA-C) (pp. 46-53). IEEE.
       </li>
       <li>
-        Garciandia, A., Arrieta, A., Agirre, A., Sagardui, G. & Arratibe, M. “Using Regression Learners to Predict Performance Problems on Software Updates: a Case Study on Elevators Dispatching Algorithms”. In 2021 ACM/SIGAPP Symposium on Applied Computing (SAC), 2021.
+        Garciandia, A., Arrieta, A., Agirre, A., Sagardui, G. &amp; Arratibe, M. “Using Regression Learners to Predict Performance Problems on Software Updates: a Case Study on Elevators Dispatching Algorithms”. In 2021 ACM/SIGAPP Symposium on Applied Computing (SAC), 2021.
       </li>
       <li>
-        Zafar, M. N., Afzal, W., Enoiu, E., Stratis, A., Arrieta, A., & Sagardui, G. “Model-Based Testing in Practice: An Industrial Case Study using GraphWalker”. In 14th Innovations in Software Engineering Conference (formerly known as India Software Engineering Conference), 2021 ACM.
+        Zafar, M. N., Afzal, W., Enoiu, E., Stratis, A., Arrieta, A., &amp; Sagardui, G. “Model-Based Testing in Practice: An Industrial Case Study using GraphWalker”. In 14th Innovations in Software Engineering Conference (formerly known as India Software Engineering Conference), 2021 ACM.
       </li>
       <li>
-        Arrieta, A., Bellido, G., Da Silva, J., Markiegi, U., & Gago, J. (2021). De la simulación a la realidad: metodología para el aprendizaje de sistemas ciber-físicos. Actas de las Jenui, 6, 283-286.
+        Arrieta, A., Bellido, G., Da Silva, J., Markiegi, U., &amp; Gago, J. (2021). De la simulación a la realidad: metodología para el aprendizaje de sistemas ciber-físicos. Actas de las Jenui, 6, 283-286.
       </li>
     </ul>
 
     <!-- 2020 -->
     <div class="paper-year">2020</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
-        Arrieta, A., Agirre, J. A., & Sagardui, G. “Seeding strategies for multi-objective test case selection: an application on simulation-based testing”. In Proceedings of the 2020 Genetic and Evolutionary Computation Conference (pp. 1222-1231). <strong>Best SBSE PAPER and Nominee to conference best paper award</strong>
+        Arrieta, A., Agirre, J. A., &amp; Sagardui, G. “Seeding strategies for multi-objective test case selection: an application on simulation-based testing”. In Proceedings of the 2020 Genetic and Evolutionary Computation Conference (pp. 1222-1231). <strong>Best SBSE PAPER and Nominee to conference best paper award</strong>
       </li>
       <li>
-        Ayerdi, J., Segura, S., Arrieta, A., Sagardui, G., & Arratibel, M. “QoS-aware Metamorphic Testing: An Elevation Case Study”. In 2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE) (pp. 104-114). IEEE.
+        Ayerdi, J., Segura, S., Arrieta, A., Sagardui, G., &amp; Arratibel, M. “QoS-aware Metamorphic Testing: An Elevation Case Study”. In 2020 IEEE 31st International Symposium on Software Reliability Engineering (ISSRE) (pp. 104-114). IEEE.
       </li>
       <li>
-        Ayerdi, J., Garciandia, A., Arrieta, A., Afzal, W., Enoiu, E., Agirre, A., Sagardui, G., Arratibel, M. & Sellin, O. “Towards a taxonomy for eliciting design-operation continuum requirements of cyber-physical systems”. In 2020 IEEE 28th International Requirements Engineering Conference (RE), 2020, (pp. 280-290). IEEE.
+        Ayerdi, J., Garciandia, A., Arrieta, A., Afzal, W., Enoiu, E., Agirre, A., Sagardui, G., Arratibel, M. &amp; Sellin, O. “Towards a taxonomy for eliciting design-operation continuum requirements of cyber-physical systems”. In 2020 IEEE 28th International Requirements Engineering Conference (RE), 2020, (pp. 280-290). IEEE.
       </li>
       <li>
-        Arrieta, A., Agirre, J. A., & Sagardui, G. “A Tool for the Automatic Generation of Test Cases and Oracles for Simulation Models Based on Functional Requirements”. In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), 2020, (pp. 1-5). IEEE.
+        Arrieta, A., Agirre, J. A., &amp; Sagardui, G. “A Tool for the Automatic Generation of Test Cases and Oracles for Simulation Models Based on Functional Requirements”. In 2020 IEEE International Conference on Software Testing, Verification and Validation Workshops (ICSTW), 2020, (pp. 1-5). IEEE.
       </li>
     </ul>
 
     <!-- 2019 -->
     <div class="paper-year">2019</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         A. Arrieta, S. Wang, U. Markiegi, A. Arruabarrena, G. Sagardui and L. Etxeberria. “Pareto Efficient Multi-Objective Black-Box Test Case Selection for Simulation-Based Testing” in Information and Software Technology, 2019, 114, 137-154.
       </li>
@@ -286,16 +218,16 @@
         A. Arrieta, S. Wang, G. Sagardui and L. Etxeberria. “Search-Based Test Case Prioritization for Simulation-Based Testing of Cyber-Physical System Product Lines” in Journal of Systems and Software, 2019, 149, 1-34.
       </li>
       <li>
-        Markiegi, U., Arrieta, A., Etxeberria, L., & Sagardui, G. “Test case selection using structural coverage in software product lines for time-budget constrained scenarios”. In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (pp. 2362-2371), 2019. ACM.
+        Markiegi, U., Arrieta, A., Etxeberria, L., &amp; Sagardui, G. “Test case selection using structural coverage in software product lines for time-budget constrained scenarios”. In Proceedings of the 34th ACM/SIGAPP Symposium on Applied Computing (pp. 2362-2371), 2019. ACM.
       </li>
       <li>
-        Markiegi, U., Arrieta, A., Etxeberria, L., & Sagardui, G. (2019, September). “White-box and black-box test quality metrics for configurable simulation models”. In Proceedings of the 23rd International Systems and Software Product Line Conference-Volume B (p. 92). ACM.
+        Markiegi, U., Arrieta, A., Etxeberria, L., &amp; Sagardui, G. (2019, September). “White-box and black-box test quality metrics for configurable simulation models”. In Proceedings of the 23rd International Systems and Software Product Line Conference-Volume B (p. 92). ACM.
       </li>
     </ul>
 
     <!-- 2018 -->
     <div class="paper-year">2018</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         A. Arrieta, S. Segura, U. Markiegi, G. Sagardui and L. Etxeberria. “Spectrum-Based Fault Localization in Software Product Lines” in Information and Software Technology, 2018, 100, 18-31.
         (<a href="https://doi.org/10.1016/j.infsof.2018.03.008" target="_blank">DOI</a>)
@@ -310,7 +242,7 @@
 
     <!-- 2017 -->
     <div class="paper-year">2017</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         A. Arrieta, G. Sagardui, L. Etxeberria, and J. Zander. “Automatic Generation of Test System Instances for Configurable Cyber-Physical Systems” in Software Quality Journal, 2017, 25(3), 1041-1083.
       </li>
@@ -339,7 +271,7 @@
 
     <!-- 2016 -->
     <div class="paper-year">2016</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         A. Arrieta, S. Wang, G. Sagardui, and L. Etxeberria. “Search-Based Test Case Selection of Cyber-Physical System Product Lines for Simulation-Based Validation” in SPLC2016: Software Product Line Conference, 2016, pp. 297-306.
       </li>
@@ -350,7 +282,7 @@
 
     <!-- 2015 -->
     <div class="paper-year">2015</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         A. Arrieta, G. Sagardui, and L. Etxeberria. “Variability in Test Systems: Review and Challenges” in VALID 2015: The Seventh International Conference on Advances in System Testing and Validation Lifecycle, 2015, pp. 15-22.
       </li>
@@ -364,7 +296,7 @@
 
     <!-- 2014 -->
     <div class="paper-year">2014</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         A. Arrieta, G. Sagardui, and L. Etxeberria. “A Configurable Test Architecture for the Automatic Validation of Variability-Intensive Cyber-Physical Systems” in VALID 2014: The Sixth International Conference on Advances in System Testing and Validation Lifecycle, 2014, pp. 79-83.
       </li>
@@ -381,7 +313,7 @@
 
     <!-- 2013 -->
     <div class="paper-year">2013</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         A. Arrieta, I. Agirre, and A. Alberdi. “Testing Architecture with Variability Management in Embedded Distributed Systems” in IV Jornadas de Computación Empotrada, 2013, pp. 12-19.
       </li>
@@ -389,7 +321,7 @@
 
     <!-- Tutorials and Talks -->
     <div class="paper-year">Tutorials and Talks</div>
-    <ul class="paper-list list-unstyled">
+    <ul class="paper-list">
       <li>
         Arrieta, A. “Variability modeling and management of MATLAB/Simulink models”. In Proceedings of the 23rd International Systems and Software Product Line Conference-Volume A (p. 54). ACM.
       </li>
@@ -400,16 +332,15 @@
         A. Arrieta “Test Optimization of Configurable Cyber-physical Systems with Search Algorithms” in First International Summer School on Search-Based Software Engineering, 2016.
       </li>
     </ul>
-  </div>
+    </div>
+  </main>
 
-  <!-- Footer -->
-  <footer>
+  <footer class="site-footer">
     <div class="container">
-      <p>&copy; 2025 Aitor Arrieta. All rights reserved.</p>
+      <div class="footer-grid"><div><h2>Researching better ways to trust complex systems.</h2><p>Professor of Software Engineering · Mondragon University</p></div><nav class="footer-links" aria-label="Footer navigation"><a href="projects.html">Research</a><a href="people.html">People</a><a href="papers.html">Publications</a><a href="lecturing.html">Teaching</a><a href="service.html">Service</a><a href="awards.html">Awards</a></nav></div>
+      <div class="footer-bottom"><p>&copy; <span data-current-year>2026</span> Aitor Arrieta.</p><p>Arrasate-Mondragon</p></div>
     </div>
   </footer>
-
-  <!-- Bootstrap JS (with Popper) -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/site.js"></script>
 </body>
 </html>
