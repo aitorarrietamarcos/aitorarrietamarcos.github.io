@@ -36,25 +36,41 @@
         <h3 class="roster-subheading">Primary supervision</h3>
         <p class="roster-intro">PhD students for whom I am the main supervisor.</p>
         <div class="roster-grid">
-          <article class="roster-card">
+          <article class="roster-card has-publications" data-publication-card>
             <span class="tag">Since January 2025</span>
             <h3>Pablo Valle Entrena</h3>
             <p><strong>Research topic:</strong> Automated Testing and Debugging of Vision-Language-Action models.</p>
+            <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="pablo-publications" data-publications-toggle>
+              <span data-toggle-label>View selected publications</span>
+              <span class="toggle-icon" aria-hidden="true">+</span>
+            </button>
           </article>
-          <article class="roster-card">
+          <article class="roster-card has-publications" data-publication-card>
             <span class="tag">Since April 2025</span>
             <h3>Ayesha Irshad</h3>
             <p><strong>Research topic:</strong> Automated Debugging and Repair of Simulink Models.</p>
+            <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="ayesha-publications" data-publications-toggle>
+              <span data-toggle-label>View selected publication</span>
+              <span class="toggle-icon" aria-hidden="true">+</span>
+            </button>
           </article>
-          <article class="roster-card">
+          <article class="roster-card has-publications" data-publication-card>
             <span class="tag">Since June 2025</span>
             <h3>Amna Khan</h3>
             <p><strong>Research topic:</strong> Uncertainty Handling and Human Aspects of Autonomous Robots.</p>
+            <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="amna-publications" data-publications-toggle>
+              <span data-toggle-label>View selected publication</span>
+              <span class="toggle-icon" aria-hidden="true">+</span>
+            </button>
           </article>
-          <article class="roster-card">
+          <article class="roster-card has-publications" data-publication-card>
             <span class="tag">Since June 2025</span>
             <h3>Khizra Sohail</h3>
             <p><strong>Research topic:</strong> Automated Repair of AI-Enabled Cyber-Physical Systems.</p>
+            <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="khizra-publications" data-publications-toggle>
+              <span data-toggle-label>View selected publication</span>
+              <span class="toggle-icon" aria-hidden="true">+</span>
+            </button>
           </article>
           <article class="roster-card">
             <span class="tag">Since September 2025</span>
@@ -67,6 +83,184 @@
             <p><strong>Research topic:</strong> Automated Testing of Generalist Robotic Policies with a Legal Perspective.</p>
           </article>
         </div>
+
+        <section class="student-publications" id="pablo-publications" aria-labelledby="pablo-publications-title" tabindex="-1" hidden>
+          <div class="student-publications-header">
+            <div>
+              <span class="tag">Selected publications · 10</span>
+              <h3 id="pablo-publications-title">Pablo Valle Entrena</h3>
+              <p>Recent work spanning robotic-system testing, test oracles, automated repair, mutation analysis, and cyber-physical systems.</p>
+            </div>
+            <button class="panel-close" type="button" data-publications-close>Close <span aria-hidden="true">×</span></button>
+          </div>
+
+          <ol class="student-publication-list">
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>Hype Meets Reality: Large Language Models as Mutators in Search-based Automated Program Repair of Simulink-Stateflow Models</h4>
+                <p>A. Irshad, P. Valle, J. Ayerdi, and A. Arrieta · ISSRE, Replication and Negative Results (RENE) Track (accepted).</p>
+                <div class="student-publication-links"><a href="https://scholar.google.es/citations?view_op=view_citation&amp;hl=es&amp;user=ft06jF4AAAAJ&amp;sortby=pubdate&amp;citation_for_view=ft06jF4AAAAJ:Ehil0879vHcC" target="_blank" rel="noopener">Scholar</a><a href="https://arxiv.org/abs/2608.19347" target="_blank" rel="noopener">Preprint</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>VISOR: A Vision-Language Model-based Test Oracle for Testing Robots</h4>
+                <p>P. Saurabh, P. Valle, A. Arrieta, S. Ali, and P. Arcaini · AIware, Main Track.</p>
+                <div class="student-publication-links"><a href="https://scholar.google.es/citations?view_op=view_citation&amp;hl=es&amp;user=ft06jF4AAAAJ&amp;sortby=pubdate&amp;citation_for_view=ft06jF4AAAAJ:HIFyuExEbWQC" target="_blank" rel="noopener">Scholar</a><a href="https://doi.org/10.1145/3805760.3814910" target="_blank" rel="noopener">Article</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>Exploring the Potential of Large Language Models in Simulink-Stateflow Mutant Generation</h4>
+                <p>P. Valle, S. Ali, and A. Arrieta · FORGE, pp. 99–109.</p>
+                <div class="student-publication-links"><a href="https://scholar.google.es/citations?view_op=view_citation&amp;hl=es&amp;user=ft06jF4AAAAJ&amp;sortby=pubdate&amp;citation_for_view=ft06jF4AAAAJ:2VqYfGB8ITEC" target="_blank" rel="noopener">Scholar</a><a href="https://arxiv.org/abs/2602.04066" target="_blank" rel="noopener">Preprint</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>Metamorphic Testing of Vision-Language Action-Enabled Robots</h4>
+                <p>P. Valle, S. Segura, S. Ali, and A. Arrieta · ICST, Research Track.</p>
+                <div class="student-publication-links"><a href="assets/Metamorphic_vla.pdf" target="_blank" rel="noopener">PDF</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>FlowRepair: Search-based Automated Program Repair of CPS Controllers Modeled in Simulink-Stateflow</h4>
+                <p>A. Arrieta, P. Valle, and S. Ali · Information and Software Technology, 108010.</p>
+                <div class="student-publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S0950584925003490" target="_blank" rel="noopener">Article</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2025</span>
+              <div>
+                <h4>An Industrial Experience Report on Applying Search-based Boundary Input Generation to Cyber-Physical Systems</h4>
+                <p>P. Valle, V. Riccio, A. Arrieta, P. Tonella, and M. Arratibel · Empirical Software Engineering, 30(4), Article 112.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2025</span>
+              <div>
+                <h4>Enhancing Multi-objective Test Case Selection through the Mutation Operator</h4>
+                <p>M. Ugarte, P. Valle, M. Illarramendi, and A. Arrieta · Automated Software Engineering, 32(1), Article 18.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2025</span>
+              <div>
+                <h4>Defining and Generating Multi-level and Uncertainty-wise Test Oracles for Cyber-Physical Systems</h4>
+                <p>P. Valle, A. Arrieta, L. Han, S. Ali, and T. Yue · Software and Systems Modeling.</p>
+                <div class="student-publication-links"><a href="https://link.springer.com/article/10.1007/s10270-025-01271-8" target="_blank" rel="noopener">Article</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2025</span>
+              <div>
+                <h4>Astral: Automated Safety Testing of Large Language Models</h4>
+                <p>M. Ugarte, P. Valle, J. A. Parejo, S. Segura, and A. Arrieta · ACM/IEEE International Conference on Automation of Software Test.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2024</span>
+              <div>
+                <h4>MarMot: Metamorphic Runtime Monitoring of Autonomous Driving Systems</h4>
+                <p>J. Ayerdi, A. Iriarte, P. Valle, I. Roman, M. Illarramendi, and A. Arrieta · ACM Transactions on Software Engineering and Methodology.</p>
+                <div class="student-publication-links"><a href="https://arxiv.org/pdf/2310.07414" target="_blank" rel="noopener">Preprint</a></div>
+              </div>
+            </li>
+          </ol>
+
+          <div class="student-publications-footer">
+            <a class="card-link" href="papers.html">Browse the full publications list <span aria-hidden="true">→</span></a>
+            <button class="panel-close" type="button" data-publications-close>Close publications <span aria-hidden="true">×</span></button>
+          </div>
+        </section>
+
+        <section class="student-publications" id="ayesha-publications" aria-labelledby="ayesha-publications-title" tabindex="-1" hidden>
+          <div class="student-publications-header">
+            <div>
+              <span class="tag">Selected publication · 1</span>
+              <h3 id="ayesha-publications-title">Ayesha Irshad</h3>
+              <p>Work on automated debugging and repair for Simulink-Stateflow models.</p>
+            </div>
+            <button class="panel-close" type="button" data-publications-close>Close <span aria-hidden="true">×</span></button>
+          </div>
+
+          <ol class="student-publication-list">
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>Hype Meets Reality: Large Language Models as Mutators in Search-based Automated Program Repair of Simulink-Stateflow Models</h4>
+                <p>A. Irshad, P. Valle, J. Ayerdi, and A. Arrieta · 37th IEEE International Symposium on Software Reliability Engineering (ISSRE), Replication and Negative Results (RENE) Track (accepted).</p>
+                <div class="student-publication-links"><a href="https://scholar.google.es/citations?view_op=view_citation&amp;hl=es&amp;user=ft06jF4AAAAJ&amp;sortby=pubdate&amp;citation_for_view=ft06jF4AAAAJ:Ehil0879vHcC" target="_blank" rel="noopener">Scholar</a><a href="https://arxiv.org/abs/2608.19347" target="_blank" rel="noopener">Preprint</a></div>
+              </div>
+            </li>
+          </ol>
+
+          <div class="student-publications-footer">
+            <a class="card-link" href="papers.html">Browse the full publications list <span aria-hidden="true">→</span></a>
+            <button class="panel-close" type="button" data-publications-close>Close publication <span aria-hidden="true">×</span></button>
+          </div>
+        </section>
+
+        <section class="student-publications" id="amna-publications" aria-labelledby="amna-publications-title" tabindex="-1" hidden>
+          <div class="student-publications-header">
+            <div>
+              <span class="tag">Preprint under review · 1</span>
+              <h3 id="amna-publications-title">Amna Khan</h3>
+              <p>A literature survey characterising the types, sources, lifecycle phases, and mitigation strategies of uncertainty in cyber-physical systems.</p>
+            </div>
+            <button class="panel-close" type="button" data-publications-close>Close <span aria-hidden="true">×</span></button>
+          </div>
+
+          <ol class="student-publication-list">
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>Uncertainty in Cyber-Physical Systems: A Literature Survey</h4>
+                <p>A. Khan, Beena, A. Arrieta, and M. Di Penta · SSRN preprint, posted 18 August 2026 (under review).</p>
+                <div class="student-publication-links"><a href="https://ssrn.com/abstract=7283978" target="_blank" rel="noopener">SSRN</a><a href="https://doi.org/10.2139/ssrn.7283978" target="_blank" rel="noopener">DOI</a></div>
+              </div>
+            </li>
+          </ol>
+
+          <div class="student-publications-footer">
+            <a class="card-link" href="https://ssrn.com/abstract=7283978" target="_blank" rel="noopener">Open the SSRN preprint <span aria-hidden="true">→</span></a>
+            <button class="panel-close" type="button" data-publications-close>Close publication <span aria-hidden="true">×</span></button>
+          </div>
+        </section>
+
+        <section class="student-publications" id="khizra-publications" aria-labelledby="khizra-publications-title" tabindex="-1" hidden>
+          <div class="student-publications-header">
+            <div>
+              <span class="tag">Preprint under review · 1</span>
+              <h3 id="khizra-publications-title">Khizra Sohail</h3>
+              <p>Work on automated repair and robustness testing of AI-enabled cyber-physical systems.</p>
+            </div>
+            <button class="panel-close" type="button" data-publications-close>Close <span aria-hidden="true">×</span></button>
+          </div>
+
+          <ol class="student-publication-list">
+            <li>
+              <span class="student-publication-year">2026</span>
+              <div>
+                <h4>Generalizable Robustness Testing of DNN-based Robotic Navigation Systems via XAI-guided Search</h4>
+                <p>K. Sohail, M. Illarramendi, and A. Arrieta · Preprint under review.</p>
+                <div class="student-publication-links"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7285339" target="_blank" rel="noopener">SSRN preprint</a></div>
+              </div>
+            </li>
+          </ol>
+
+          <div class="student-publications-footer">
+            <a class="card-link" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7285339" target="_blank" rel="noopener">Open the SSRN preprint <span aria-hidden="true">→</span></a>
+            <button class="panel-close" type="button" data-publications-close>Close publication <span aria-hidden="true">×</span></button>
+          </div>
+        </section>
+
         <h3 class="roster-subheading">External co-supervision</h3>
         <p class="roster-intro">PhD students at Simula Research Laboratory, co-supervised with Professor Shaukat Ali.</p>
         <div class="roster-grid">
@@ -117,10 +311,14 @@
       <section class="content-section" aria-labelledby="former-researchers">
         <h2 id="former-researchers">Former PhD students, postdocs, and visitors</h2>
         <div class="people-list">
-          <article>
+          <article class="roster-card has-publications" data-publication-card>
             <span class="tag">PhD student · 2020–2022</span>
             <h3>Dr. Jon Ayerdi</h3>
             <p>Completed his PhD with an Excellent Cum Laude distinction. He is now an Associate Professor at Mondragon University.</p>
+            <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="jon-publications" data-publications-toggle data-toggle-closed-label="View PhD thesis publications" data-toggle-open-label="Hide PhD thesis publications">
+              <span data-toggle-label>View PhD thesis publications</span>
+              <span class="toggle-icon" aria-hidden="true">+</span>
+            </button>
           </article>
           <article>
             <span class="tag">Postdoctoral fellow · December 2021–September 2022</span>
@@ -138,6 +336,97 @@
             <p>Former visiting researcher during a two-month research stay.</p>
           </article>
         </div>
+
+        <section class="student-publications" id="jon-publications" aria-labelledby="jon-publications-title" tabindex="-1" hidden>
+          <div class="student-publications-header">
+            <div>
+              <span class="tag">PhD thesis publications · 10</span>
+              <h3 id="jon-publications-title">Dr. Jon Ayerdi</h3>
+              <p>Publications arising from his doctoral research on metamorphic testing, test-oracle generation, deployment validation, and cyber-physical systems, through and including MarMot.</p>
+            </div>
+            <button class="panel-close" type="button" data-publications-close>Close <span aria-hidden="true">×</span></button>
+          </div>
+
+          <ol class="student-publication-list">
+            <li>
+              <span class="student-publication-year">2024</span>
+              <div>
+                <h4>GenMorph: Automatically Generating Metamorphic Relations via Genetic Programming</h4>
+                <p>J. Ayerdi, V. Terragni, G. Jahangirova, A. Arrieta, and P. Tonella · IEEE Transactions on Software Engineering.</p>
+                <div class="student-publication-links"><a href="https://arxiv.org/pdf/2312.15302" target="_blank" rel="noopener">Preprint</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2024</span>
+              <div>
+                <h4>MarMot: Metamorphic Runtime Monitoring of Autonomous Driving Systems</h4>
+                <p>J. Ayerdi, A. Iriarte, P. Valle, I. Roman, M. Illarramendi, and A. Arrieta · ACM Transactions on Software Engineering and Methodology.</p>
+                <div class="student-publication-links"><a href="https://arxiv.org/pdf/2310.07414" target="_blank" rel="noopener">Preprint</a></div>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2023</span>
+              <div>
+                <h4>Performance-Driven Metamorphic Testing of Cyber-Physical Systems</h4>
+                <p>J. Ayerdi, P. Valle, S. Segura, A. Arrieta, G. Sagardui, and M. Arratibel · IEEE Transactions on Reliability, 72(2), 827–845.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2022</span>
+              <div>
+                <h4>Machine Learning-based Test Oracles for Performance Testing of Cyber-Physical Systems: An Industrial Case Study on Elevator Dispatching Algorithms</h4>
+                <p>A. Garciandia, A. Arrieta, J. Ayerdi, M. Illarramendi, A. Agirre, G. Sagardui, and M. Arratibel · Journal of Software: Evolution and Process.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2022</span>
+              <div>
+                <h4>Multi-Objective Metamorphic Test Case Selection: An Industrial Case Study</h4>
+                <p>J. Ayerdi, A. Arrieta, E. B. Pobee, and M. Arratibel · IEEE International Symposium on Software Reliability Engineering (ISSRE), pp. 541–552.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2021</span>
+              <div>
+                <h4>Generating Metamorphic Relations for Cyber-Physical Systems with Genetic Programming: An Industrial Case Study</h4>
+                <p>J. Ayerdi, V. Terragni, A. Arrieta, P. Tonella, G. Sagardui, and M. Arratibel · ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, pp. 1264–1274.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2021</span>
+              <div>
+                <h4>Using Machine Learning to Build Test Oracles: An Industrial Case Study of Elevator Dispatching Algorithms</h4>
+                <p>A. Arrieta, J. Ayerdi, I. Illarramendi, A. Agirre, G. Sagardui, and M. Arratibel · ACM/IEEE International Conference on Automation of Software Test (AST).</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2021</span>
+              <div>
+                <h4>Microservices for Continuous Deployment, Monitoring and Validation in Cyber-Physical Systems: An Industrial Case Study for Elevator Systems</h4>
+                <p>A. Gartziandia, J. Ayerdi, A. Arrieta, S. Ali, T. Yue, A. Agirre, G. Sagardui, and M. Arratibel · IEEE International Conference on Software Architecture Companion (ICSA-C), pp. 46–53.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2020</span>
+              <div>
+                <h4>QoS-aware Metamorphic Testing: An Elevation Case Study</h4>
+                <p>J. Ayerdi, S. Segura, A. Arrieta, G. Sagardui, and M. Arratibel · IEEE International Symposium on Software Reliability Engineering (ISSRE), pp. 104–114.</p>
+              </div>
+            </li>
+            <li>
+              <span class="student-publication-year">2020</span>
+              <div>
+                <h4>Towards a Taxonomy for Eliciting Design-Operation Continuum Requirements of Cyber-Physical Systems</h4>
+                <p>J. Ayerdi, A. Garciandia, A. Arrieta, W. Afzal, E. Enoiu, A. Agirre, G. Sagardui, M. Arratibel, and O. Sellin · IEEE International Requirements Engineering Conference (RE), pp. 280–290.</p>
+              </div>
+            </li>
+          </ol>
+
+          <div class="student-publications-footer">
+            <a class="card-link" href="papers.html">Browse the full publications list <span aria-hidden="true">→</span></a>
+            <button class="panel-close" type="button" data-publications-close>Close publications <span aria-hidden="true">×</span></button>
+          </div>
+        </section>
       </section>
 
       <section class="content-section note-panel" aria-labelledby="collaborate">

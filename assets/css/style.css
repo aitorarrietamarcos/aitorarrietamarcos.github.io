@@ -880,6 +880,19 @@ h3 {
   background: rgba(255, 255, 255, 0.72);
 }
 
+.roster-card.has-publications {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  transition: border-color 180ms ease, background 180ms ease, box-shadow 180ms ease;
+}
+
+.roster-card.has-publications.is-expanded {
+  border-color: rgba(0, 107, 115, 0.5);
+  background: var(--surface);
+  box-shadow: var(--shadow-small);
+}
+
 .roster-card h3 {
   margin: 18px 0 9px;
   font-family: var(--serif);
@@ -892,6 +905,165 @@ h3 {
   color: var(--ink-soft);
   font-size: 0.9rem;
   line-height: 1.55;
+}
+
+.publication-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  margin-top: auto;
+  padding: 22px 0 2px;
+  border: 0;
+  border-bottom: 1px solid currentColor;
+  background: transparent;
+  color: var(--brand);
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 800;
+  line-height: 1.35;
+  cursor: pointer;
+}
+
+.publication-toggle:hover {
+  color: var(--brand-deep);
+}
+
+.toggle-icon {
+  font-size: 1.15rem;
+  font-weight: 500;
+  line-height: 1;
+  transition: transform 180ms ease;
+}
+
+.publication-toggle[aria-expanded="true"] .toggle-icon {
+  transform: rotate(45deg);
+}
+
+.student-publications {
+  margin-top: 20px;
+  padding: clamp(28px, 5vw, 52px);
+  scroll-margin-top: 104px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: var(--shadow-small);
+}
+
+.student-publications[hidden] {
+  display: none;
+}
+
+.student-publications-header,
+.student-publications-footer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 34px;
+}
+
+.student-publications-header > div {
+  max-width: 760px;
+}
+
+.student-publications-header h3 {
+  margin: 18px 0 10px;
+  font-family: var(--serif);
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  font-weight: 600;
+  letter-spacing: -0.03em;
+}
+
+.student-publications-header p {
+  margin-bottom: 0;
+  color: var(--ink-soft);
+}
+
+.panel-close {
+  display: inline-flex;
+  flex-shrink: 0;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.panel-close:hover {
+  border-color: var(--brand);
+  color: var(--brand);
+}
+
+.student-publication-list {
+  margin: 36px 0 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+  list-style: none;
+}
+
+.student-publication-list li {
+  display: grid;
+  grid-template-columns: 64px 1fr;
+  gap: 24px;
+  padding: 24px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.student-publication-year {
+  color: var(--accent);
+  font-size: 0.78rem;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+}
+
+.student-publication-list h4 {
+  max-width: 880px;
+  margin: 0 0 7px;
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: clamp(1.12rem, 2vw, 1.35rem);
+  font-weight: 600;
+  line-height: 1.32;
+}
+
+.student-publication-list p {
+  max-width: 900px;
+  margin-bottom: 0;
+  color: var(--ink-soft);
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.student-publication-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.student-publication-links a {
+  display: inline-flex;
+  padding: 5px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper);
+  font-size: 0.72rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.student-publications-footer {
+  align-items: center;
+  padding-top: 28px;
+}
+
+.student-publications-footer .card-link {
+  margin-top: 0;
 }
 
 .people-list article {
@@ -1256,6 +1428,16 @@ h3 {
 
   .project-card {
     min-height: 270px;
+  }
+
+  .student-publications-header,
+  .student-publications-footer {
+    flex-direction: column;
+  }
+
+  .student-publication-list li {
+    grid-template-columns: 1fr;
+    gap: 8px;
   }
 
   .section-heading {
